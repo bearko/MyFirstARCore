@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 883381b05d2265447b25a2bdd938d44e
+labels:
+- photo-real
+- low-poly
+- city
+- cityscape
+- skyline
+- urban
+- realistic
+- modern
+- loft
+- contemporary
+- architecture
+- interior
+- exterior
+- miscellaneous
+- mobile
+- detail
+- furniture
+- room
+- modular
+- penthouse
+- household
+- wood
+- design
+- minimal
+- home
+- flat
+- roof
+- apartment
+- animated
+- ambience
+- atmosphere
+- day
+- night
+- luxurious
+- high-end
+- lightmaped
+- laundry
+- cupboards
+- detergent
+- washingmachine
+- towels
+- dressshirts
+- lounge
+- couch
+- sofa
+- living
+- spots
+- kitchen
+- bar
+- table
+- windows
+- doors
+- glass
+- chair
+- lights
+- sink
+- statue
+- curtain
+- blinds
+- books
+- tv
+- chimney
+- terrace
+- sundeck
+- balcony
+- patio
+- bench
+- plant
+- hallway
+- stairs
+- bathroom
+- toilet
+- gel
+- soap
+- shampoo
+- magazine
+- shower
+- lotion
+- shelves
+- bedroom
+- carpet
+- bed
+- cushion
+- tablelamp
+- dressshirt
+- pants
+- hanger
+- walk-in
+- closet
+- drawer
+- lighthouse
+- birds
+- curtains
+- sun
+- jetplane
+- horizon
+- rooftop
+- offices
+- Ambience
+- Animated
+- Apartment
+- Architecture
+- Atmosphere
+- Balcony
+- Bar
+- Bathroom
+- Bed
+- Birds
+- Blinds
+- Books
+- Carpet
+- Chair
+- Chimney
+- City
+- Cityscape
+- Closet
+- Contemporary
+- Couch
+- Cupboards
+- Curtain
+- Curtains
+- Cushion
+- Day
+- Design
+- Detail
+- Detergent
+- Doors
+- Drawer
+- Dressshirt
+- Dressshirts
+- Exterior
+- Flat
+- Furniture
+- Gel
+- Glass
+- Hallway
+- Hanger
+- High-end
+- Home
+- Horizon
+- Household
+- Interior
+- Jetplane
+- Kitchen
+- Laundry
+- Lighthouse
+- Lightmaped
+- Lights
+- Living
+- Loft
+- Lotion
+- Lounge
+- Low-poly
+- Luxurious
+- Magazine
+- Minimal
+- Miscellaneous
+- Mobile
+- Modern
+- Modular
+- Night
+- Offices
+- Pants
+- Patio
+- Penthouse
+- Photo-real
+- Plant
+- Realistic
+- Roof
+- Rooftop
+- Room
+- Shampoo
+- Shelves
+- Shower
+- Sink
+- Skyline
+- Soap
+- Sofa
+- Spots
+- Stairs
+- Statue
+- Sun
+- Sundeck
+- Table
+- Tablelamp
+- Terrace
+- Toilet
+- Towels
+- Tv
+- Urban
+- Walk-in
+- Washingmachine
+- Windows
+- Wood
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: light_spot_1
+    100002: light_spot_10
+    100004: light_spot_11
+    100006: light_spot_12
+    100008: light_spot_13
+    100010: light_spot_14
+    100012: light_spot_15
+    100014: light_spot_2
+    100016: light_spot_3
+    100018: light_spot_4
+    100020: light_spot_5
+    100022: light_spot_6
+    100024: light_spot_7
+    100026: light_spot_8
+    100028: light_spot_9
+    100030: light_spots
+    100032: plinthe_1
+    100034: plinthe_2
+    100036: plinthe_3
+    100038: plinthe_4
+    100040: plinthe_5
+    100042: plinthes
+    100044: ramp
+    100046: //RootNode
+    100048: walls
+    400000: light_spot_1
+    400002: light_spot_10
+    400004: light_spot_11
+    400006: light_spot_12
+    400008: light_spot_13
+    400010: light_spot_14
+    400012: light_spot_15
+    400014: light_spot_2
+    400016: light_spot_3
+    400018: light_spot_4
+    400020: light_spot_5
+    400022: light_spot_6
+    400024: light_spot_7
+    400026: light_spot_8
+    400028: light_spot_9
+    400030: light_spots
+    400032: plinthe_1
+    400034: plinthe_2
+    400036: plinthe_3
+    400038: plinthe_4
+    400040: plinthe_5
+    400042: plinthes
+    400044: ramp
+    400046: //RootNode
+    400048: walls
+    2300000: light_spot_1
+    2300002: light_spot_10
+    2300004: light_spot_11
+    2300006: light_spot_12
+    2300008: light_spot_13
+    2300010: light_spot_14
+    2300012: light_spot_15
+    2300014: light_spot_2
+    2300016: light_spot_3
+    2300018: light_spot_4
+    2300020: light_spot_5
+    2300022: light_spot_6
+    2300024: light_spot_7
+    2300026: light_spot_8
+    2300028: light_spot_9
+    2300030: plinthe_1
+    2300032: plinthe_2
+    2300034: plinthe_3
+    2300036: plinthe_4
+    2300038: plinthe_5
+    2300040: ramp
+    2300042: walls
+    3300000: light_spot_1
+    3300002: light_spot_10
+    3300004: light_spot_11
+    3300006: light_spot_12
+    3300008: light_spot_13
+    3300010: light_spot_14
+    3300012: light_spot_15
+    3300014: light_spot_2
+    3300016: light_spot_3
+    3300018: light_spot_4
+    3300020: light_spot_5
+    3300022: light_spot_6
+    3300024: light_spot_7
+    3300026: light_spot_8
+    3300028: light_spot_9
+    3300030: plinthe_1
+    3300032: plinthe_2
+    3300034: plinthe_3
+    3300036: plinthe_4
+    3300038: plinthe_5
+    3300040: ramp
+    3300042: walls
+    4300000: light_spot_15
+    4300002: light_spot_14
+    4300004: light_spot_13
+    4300006: light_spot_12
+    4300008: light_spot_11
+    4300010: light_spot_10
+    4300012: light_spot_9
+    4300014: light_spot_8
+    4300016: light_spot_7
+    4300018: light_spot_6
+    4300020: light_spot_5
+    4300022: light_spot_4
+    4300024: light_spot_3
+    4300026: light_spot_2
+    4300028: light_spot_1
+    4300030: plinthe_5
+    4300032: plinthe_4
+    4300034: plinthe_2
+    4300036: plinthe_1
+    4300038: plinthe_3
+    4300040: ramp
+    4300042: walls
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

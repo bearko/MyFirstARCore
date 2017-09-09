@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 5c3da79386c61094c8136a1a42c4eb42
+labels:
+- ramp
+- spots
+- deawers
+- shelves
+- lighting
+- lightmap
+- night
+- day
+- atmosphere
+- ambience
+- apartment
+- roof
+- flat
+- home
+- minimal
+- wood
+- penthouse
+- design
+- modular
+- high-end
+- luxury
+- interior
+- architecture
+- contemporary
+- loft
+- real
+- modern
+- realistic
+- urban
+- low-poly
+- photoreal
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cupboards_01
+    100002: cupboards_02
+    100004: cupboards_03
+    100006: cupboards_04
+    100008: cupboards_05
+    100010: cupboards_06
+    100012: floor
+    100014: //RootNode
+    100016: light_spot_1
+    100018: light_spot_10
+    100020: light_spot_11
+    100022: light_spot_12
+    100024: light_spot_13
+    100026: light_spot_14
+    100028: light_spot_15
+    100030: light_spot_2
+    100032: light_spot_3
+    100034: light_spot_4
+    100036: light_spot_5
+    100038: light_spot_6
+    100040: light_spot_7
+    100042: light_spot_8
+    100044: light_spot_9
+    100046: light_spots
+    100048: plinthe_1
+    100050: plinthe_2
+    100052: plinthe_3
+    100054: plinthe_4
+    100056: plinthe_5
+    100058: plinthes
+    100060: polySurface22
+    100062: polySurface24
+    100064: polySurface30
+    100066: polySurface34
+    100068: polySurface36
+    100070: polySurface40
+    100072: polySurface41
+    100074: ramp
+    100076: walls1
+    100078: wooden_drawers
+    100080: wooden_cupboard_1
+    100082: wooden_cupboard_10
+    100084: wooden_cupboard_11
+    100086: wooden_cupboard_12
+    100088: wooden_cupboard_13
+    100090: wooden_cupboard_2
+    100092: wooden_cupboard_3
+    100094: wooden_cupboard_4
+    100096: wooden_cupboard_5
+    100098: wooden_cupboard_6
+    100100: wooden_cupboard_7
+    100102: wooden_cupboard_8
+    100104: wooden_cupboard_9
+    100106: wall_1
+    100108: wall_2
+    100110: wall_3
+    100112: wall_4
+    100114: wall_5
+    100116: wall_6
+    100118: wall_7
+    100120: wall_8
+    100122: wall_9
+    100124: walls
+    400000: cupboards_01
+    400002: cupboards_02
+    400004: cupboards_03
+    400006: cupboards_04
+    400008: cupboards_05
+    400010: cupboards_06
+    400012: floor
+    400014: //RootNode
+    400016: light_spot_1
+    400018: light_spot_10
+    400020: light_spot_11
+    400022: light_spot_12
+    400024: light_spot_13
+    400026: light_spot_14
+    400028: light_spot_15
+    400030: light_spot_2
+    400032: light_spot_3
+    400034: light_spot_4
+    400036: light_spot_5
+    400038: light_spot_6
+    400040: light_spot_7
+    400042: light_spot_8
+    400044: light_spot_9
+    400046: light_spots
+    400048: plinthe_1
+    400050: plinthe_2
+    400052: plinthe_3
+    400054: plinthe_4
+    400056: plinthe_5
+    400058: plinthes
+    400060: polySurface22
+    400062: polySurface24
+    400064: polySurface30
+    400066: polySurface34
+    400068: polySurface36
+    400070: polySurface40
+    400072: polySurface41
+    400074: ramp
+    400076: walls1
+    400078: wooden_drawers
+    400080: wooden_cupboard_1
+    400082: wooden_cupboard_10
+    400084: wooden_cupboard_11
+    400086: wooden_cupboard_12
+    400088: wooden_cupboard_13
+    400090: wooden_cupboard_2
+    400092: wooden_cupboard_3
+    400094: wooden_cupboard_4
+    400096: wooden_cupboard_5
+    400098: wooden_cupboard_6
+    400100: wooden_cupboard_7
+    400102: wooden_cupboard_8
+    400104: wooden_cupboard_9
+    400106: wall_1
+    400108: wall_2
+    400110: wall_3
+    400112: wall_4
+    400114: wall_5
+    400116: wall_6
+    400118: wall_7
+    400120: wall_8
+    400122: wall_9
+    400124: walls
+    2300000: cupboards_01
+    2300002: cupboards_02
+    2300004: cupboards_03
+    2300006: cupboards_04
+    2300008: cupboards_05
+    2300010: cupboards_06
+    2300012: floor
+    2300014: light_spot_1
+    2300016: light_spot_10
+    2300018: light_spot_11
+    2300020: light_spot_12
+    2300022: light_spot_13
+    2300024: light_spot_14
+    2300026: light_spot_15
+    2300028: light_spot_2
+    2300030: light_spot_3
+    2300032: light_spot_4
+    2300034: light_spot_5
+    2300036: light_spot_6
+    2300038: light_spot_7
+    2300040: light_spot_8
+    2300042: light_spot_9
+    2300044: plinthe_1
+    2300046: plinthe_2
+    2300048: plinthe_3
+    2300050: plinthe_4
+    2300052: plinthe_5
+    2300054: polySurface22
+    2300056: polySurface24
+    2300058: polySurface30
+    2300060: polySurface34
+    2300062: polySurface36
+    2300064: polySurface40
+    2300066: polySurface41
+    2300068: ramp
+    2300070: walls1
+    2300072: wooden_cupboard_1
+    2300074: wooden_cupboard_10
+    2300076: wooden_cupboard_11
+    2300078: wooden_cupboard_12
+    2300080: wooden_cupboard_13
+    2300082: wooden_cupboard_2
+    2300084: wooden_cupboard_3
+    2300086: wooden_cupboard_4
+    2300088: wooden_cupboard_5
+    2300090: wooden_cupboard_6
+    2300092: wooden_cupboard_7
+    2300094: wooden_cupboard_8
+    2300096: wooden_cupboard_9
+    2300098: wall_1
+    2300100: wall_2
+    2300102: wall_3
+    2300104: wall_4
+    2300106: wall_5
+    2300108: wall_6
+    2300110: wall_7
+    2300112: wall_8
+    2300114: wall_9
+    3300000: cupboards_01
+    3300002: cupboards_02
+    3300004: cupboards_03
+    3300006: cupboards_04
+    3300008: cupboards_05
+    3300010: cupboards_06
+    3300012: floor
+    3300014: light_spot_1
+    3300016: light_spot_10
+    3300018: light_spot_11
+    3300020: light_spot_12
+    3300022: light_spot_13
+    3300024: light_spot_14
+    3300026: light_spot_15
+    3300028: light_spot_2
+    3300030: light_spot_3
+    3300032: light_spot_4
+    3300034: light_spot_5
+    3300036: light_spot_6
+    3300038: light_spot_7
+    3300040: light_spot_8
+    3300042: light_spot_9
+    3300044: plinthe_1
+    3300046: plinthe_2
+    3300048: plinthe_3
+    3300050: plinthe_4
+    3300052: plinthe_5
+    3300054: polySurface22
+    3300056: polySurface24
+    3300058: polySurface30
+    3300060: polySurface34
+    3300062: polySurface36
+    3300064: polySurface40
+    3300066: polySurface41
+    3300068: ramp
+    3300070: walls1
+    3300072: wooden_cupboard_1
+    3300074: wooden_cupboard_10
+    3300076: wooden_cupboard_11
+    3300078: wooden_cupboard_12
+    3300080: wooden_cupboard_13
+    3300082: wooden_cupboard_2
+    3300084: wooden_cupboard_3
+    3300086: wooden_cupboard_4
+    3300088: wooden_cupboard_5
+    3300090: wooden_cupboard_6
+    3300092: wooden_cupboard_7
+    3300094: wooden_cupboard_8
+    3300096: wooden_cupboard_9
+    3300098: wall_1
+    3300100: wall_2
+    3300102: wall_3
+    3300104: wall_4
+    3300106: wall_5
+    3300108: wall_6
+    3300110: wall_7
+    3300112: wall_8
+    3300114: wall_9
+    4300000: walls1
+    4300002: floor
+    4300004: light_spot_15
+    4300006: light_spot_14
+    4300008: light_spot_13
+    4300010: light_spot_12
+    4300012: light_spot_11
+    4300014: light_spot_10
+    4300016: light_spot_9
+    4300018: light_spot_8
+    4300020: light_spot_7
+    4300022: light_spot_6
+    4300024: light_spot_5
+    4300026: light_spot_4
+    4300028: light_spot_3
+    4300030: light_spot_2
+    4300032: light_spot_1
+    4300034: plinthe_5
+    4300036: plinthe_4
+    4300038: plinthe_2
+    4300040: plinthe_1
+    4300042: plinthe_3
+    4300044: ramp
+    4300046: cupboards_04
+    4300048: polySurface41
+    4300050: polySurface40
+    4300052: cupboards_06
+    4300054: polySurface36
+    4300056: polySurface30
+    4300058: polySurface34
+    4300060: polySurface24
+    4300062: polySurface22
+    4300064: cupboards_05
+    4300066: cupboards_03
+    4300068: cupboards_02
+    4300070: cupboards_01
+    4300072: wooden_cupboard_1
+    4300074: wooden_cupboard_2
+    4300076: wooden_cupboard_3
+    4300078: wooden_cupboard_4
+    4300080: wooden_cupboard_5
+    4300082: wooden_cupboard_6
+    4300084: wooden_cupboard_7
+    4300086: wooden_cupboard_8
+    4300088: wooden_cupboard_9
+    4300090: wooden_cupboard_10
+    4300092: wooden_cupboard_11
+    4300094: wooden_cupboard_12
+    4300096: wooden_cupboard_13
+    4300098: wall_1
+    4300100: wall_2
+    4300102: wall_3
+    4300104: wall_4
+    4300106: wall_5
+    4300108: wall_6
+    4300110: wall_7
+    4300112: wall_8
+    4300114: wall_9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/MyFirstARCore.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/GoogleARCore/HelloARExample/Scenes/HelloAR.unity
+  isLoaded: 1
+  isActive: 0

@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 96d44c9a41a12924bb13f265e9e57eda
+labels:
+- Ambience
+- Animated
+- Apartment
+- Architecture
+- Atmosphere
+- Balcony
+- Bar
+- Bathroom
+- Bed
+- Birds
+- Blinds
+- Books
+- Carpet
+- Chair
+- Chimney
+- City
+- Cityscape
+- Closet
+- Contemporary
+- Couch
+- Cupboards
+- Curtain
+- Curtains
+- Cushion
+- Day
+- Design
+- Detail
+- Detergent
+- Doors
+- Drawer
+- Dressshirt
+- Dressshirts
+- Exterior
+- Flat
+- Furniture
+- Gel
+- Glass
+- Hallway
+- Hanger
+- High-end
+- Home
+- Horizon
+- Household
+- Interior
+- Jetplane
+- Kitchen
+- Laundry
+- Lighthouse
+- Lightmaped
+- Lights
+- Living
+- Loft
+- Lotion
+- Lounge
+- Low-poly
+- Luxurious
+- Magazine
+- Minimal
+- Miscellaneous
+- Mobile
+- Modern
+- Modular
+- Night
+- Offices
+- Pants
+- Patio
+- Penthouse
+- Photo-real
+- Plant
+- Realistic
+- Roof
+- Rooftop
+- Room
+- Shampoo
+- Shelves
+- Shower
+- Sink
+- Skyline
+- Soap
+- Sofa
+- Spots
+- Stairs
+- Statue
+- Sun
+- Sundeck
+- Table
+- Tablelamp
+- Terrace
+- Toilet
+- Towels
+- Tv
+- Urban
+- Walk-in
+- Washingmachine
+- Windows
+- Wood
+- Bedroom
+- Bench
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bench_05
+    100002: carb_box_1
+    100004: carb_box_10
+    100006: carb_box_11
+    100008: carb_box_12
+    100010: carb_box_13
+    100012: carb_box_14
+    100014: carb_box_15
+    100016: carb_box_16
+    100018: carb_box_17
+    100020: carb_box_18
+    100022: carb_box_19
+    100024: carb_box_2
+    100026: carb_box_20
+    100028: carb_box_21
+    100030: carb_box_22
+    100032: carb_box_23
+    100034: carb_box_24
+    100036: carb_box_25
+    100038: carb_box_26
+    100040: carb_box_27
+    100042: carb_box_28
+    100044: carb_box_29
+    100046: carb_box_3
+    100048: carb_box_30
+    100050: carb_box_31
+    100052: carb_box_32
+    100054: carb_box_33
+    100056: carb_box_34
+    100058: carb_box_4
+    100060: carb_box_5
+    100062: carb_box_6
+    100064: carb_box_7
+    100066: carb_box_8
+    100068: carb_box_9
+    100070: card_boxes
+    100072: Collider
+    100074: dress_shirt_1
+    100076: dress_shirt_2
+    100078: dress_shirt_3
+    100080: dress_shirt_4
+    100082: dress_shirt_5
+    100084: dress_shirt_6
+    100086: dress_shirt_folded_1
+    100088: dress_shirt_folded_10
+    100090: dress_shirt_folded_11
+    100092: dress_shirt_folded_12
+    100094: dress_shirt_folded_13
+    100096: dress_shirt_folded_2
+    100098: dress_shirt_folded_3
+    100100: dress_shirt_folded_4
+    100102: dress_shirt_folded_5
+    100104: dress_shirt_folded_6
+    100106: dress_shirt_folded_7
+    100108: dress_shirt_folded_8
+    100110: dress_shirt_folded_9
+    100112: dress_shirts
+    100114: hanger_1
+    100116: hanger_10
+    100118: hanger_11
+    100120: hanger_12
+    100122: hanger_13
+    100124: hanger_14
+    100126: hanger_2
+    100128: hanger_3
+    100130: hanger_4
+    100132: hanger_5
+    100134: hanger_6
+    100136: hanger_7
+    100138: hanger_8
+    100140: hanger_9
+    100142: light_spot_38
+    100144: light_spot_39
+    100146: light_spot_40
+    100148: light_spot_41
+    100150: light_spot_42
+    100152: light_spot_43
+    100154: light_spot_44
+    100156: light_spot_45
+    100158: light_spot_46
+    100160: light_spots
+    100162: pant_1
+    100164: pant_2
+    100166: pant_3
+    100168: pant_4
+    100170: pant_5
+    100172: pant_6
+    100174: pant_7
+    100176: pant_8
+    100178: pant_9
+    100180: //RootNode
+    100182: room_09_closet_D
+    100184: room_09_closet_E
+    100186: room_09_closet_F
+    100188: walls
+    100190: room_09_closet_F_high_res
+    100192: shirtstack10
+    100194: shirtstack11
+    100196: shirtstack12
+    100198: shirtstack13
+    100200: shirtstack14
+    100202: shirtstack15
+    100204: shirtstack16
+    100206: shirtstack17
+    100208: shirtstack18
+    100210: shirtstack19
+    100212: shirtstack7
+    100214: shirtstack8
+    100216: shirtstack9
+    400000: bench_05
+    400002: carb_box_1
+    400004: carb_box_10
+    400006: carb_box_11
+    400008: carb_box_12
+    400010: carb_box_13
+    400012: carb_box_14
+    400014: carb_box_15
+    400016: carb_box_16
+    400018: carb_box_17
+    400020: carb_box_18
+    400022: carb_box_19
+    400024: carb_box_2
+    400026: carb_box_20
+    400028: carb_box_21
+    400030: carb_box_22
+    400032: carb_box_23
+    400034: carb_box_24
+    400036: carb_box_25
+    400038: carb_box_26
+    400040: carb_box_27
+    400042: carb_box_28
+    400044: carb_box_29
+    400046: carb_box_3
+    400048: carb_box_30
+    400050: carb_box_31
+    400052: carb_box_32
+    400054: carb_box_33
+    400056: carb_box_34
+    400058: carb_box_4
+    400060: carb_box_5
+    400062: carb_box_6
+    400064: carb_box_7
+    400066: carb_box_8
+    400068: carb_box_9
+    400070: card_boxes
+    400072: Collider
+    400074: dress_shirt_1
+    400076: dress_shirt_2
+    400078: dress_shirt_3
+    400080: dress_shirt_4
+    400082: dress_shirt_5
+    400084: dress_shirt_6
+    400086: dress_shirt_folded_1
+    400088: dress_shirt_folded_10
+    400090: dress_shirt_folded_11
+    400092: dress_shirt_folded_12
+    400094: dress_shirt_folded_13
+    400096: dress_shirt_folded_2
+    400098: dress_shirt_folded_3
+    400100: dress_shirt_folded_4
+    400102: dress_shirt_folded_5
+    400104: dress_shirt_folded_6
+    400106: dress_shirt_folded_7
+    400108: dress_shirt_folded_8
+    400110: dress_shirt_folded_9
+    400112: dress_shirts
+    400114: hanger_1
+    400116: hanger_10
+    400118: hanger_11
+    400120: hanger_12
+    400122: hanger_13
+    400124: hanger_14
+    400126: hanger_2
+    400128: hanger_3
+    400130: hanger_4
+    400132: hanger_5
+    400134: hanger_6
+    400136: hanger_7
+    400138: hanger_8
+    400140: hanger_9
+    400142: light_spot_38
+    400144: light_spot_39
+    400146: light_spot_40
+    400148: light_spot_41
+    400150: light_spot_42
+    400152: light_spot_43
+    400154: light_spot_44
+    400156: light_spot_45
+    400158: light_spot_46
+    400160: light_spots
+    400162: pant_1
+    400164: pant_2
+    400166: pant_3
+    400168: pant_4
+    400170: pant_5
+    400172: pant_6
+    400174: pant_7
+    400176: pant_8
+    400178: pant_9
+    400180: //RootNode
+    400182: room_09_closet_D
+    400184: room_09_closet_E
+    400186: room_09_closet_F
+    400188: walls
+    400190: room_09_closet_F_high_res
+    400192: shirtstack10
+    400194: shirtstack11
+    400196: shirtstack12
+    400198: shirtstack13
+    400200: shirtstack14
+    400202: shirtstack15
+    400204: shirtstack16
+    400206: shirtstack17
+    400208: shirtstack18
+    400210: shirtstack19
+    400212: shirtstack7
+    400214: shirtstack8
+    400216: shirtstack9
+    2300000: bench_05
+    2300002: carb_box_1
+    2300004: carb_box_10
+    2300006: carb_box_11
+    2300008: carb_box_12
+    2300010: carb_box_13
+    2300012: carb_box_14
+    2300014: carb_box_15
+    2300016: carb_box_16
+    2300018: carb_box_17
+    2300020: carb_box_18
+    2300022: carb_box_19
+    2300024: carb_box_2
+    2300026: carb_box_20
+    2300028: carb_box_21
+    2300030: carb_box_22
+    2300032: carb_box_23
+    2300034: carb_box_24
+    2300036: carb_box_25
+    2300038: carb_box_26
+    2300040: carb_box_27
+    2300042: carb_box_28
+    2300044: carb_box_29
+    2300046: carb_box_3
+    2300048: carb_box_30
+    2300050: carb_box_31
+    2300052: carb_box_32
+    2300054: carb_box_33
+    2300056: carb_box_34
+    2300058: carb_box_4
+    2300060: carb_box_5
+    2300062: carb_box_6
+    2300064: carb_box_7
+    2300066: carb_box_8
+    2300068: carb_box_9
+    2300070: Collider
+    2300072: dress_shirt_1
+    2300074: dress_shirt_2
+    2300076: dress_shirt_3
+    2300078: dress_shirt_4
+    2300080: dress_shirt_5
+    2300082: dress_shirt_6
+    2300084: dress_shirt_folded_1
+    2300086: dress_shirt_folded_10
+    2300088: dress_shirt_folded_11
+    2300090: dress_shirt_folded_12
+    2300092: dress_shirt_folded_13
+    2300094: dress_shirt_folded_2
+    2300096: dress_shirt_folded_3
+    2300098: dress_shirt_folded_4
+    2300100: dress_shirt_folded_5
+    2300102: dress_shirt_folded_6
+    2300104: dress_shirt_folded_7
+    2300106: dress_shirt_folded_8
+    2300108: dress_shirt_folded_9
+    2300110: hanger_1
+    2300112: hanger_10
+    2300114: hanger_11
+    2300116: hanger_12
+    2300118: hanger_13
+    2300120: hanger_14
+    2300122: hanger_2
+    2300124: hanger_3
+    2300126: hanger_4
+    2300128: hanger_5
+    2300130: hanger_6
+    2300132: hanger_7
+    2300134: hanger_8
+    2300136: hanger_9
+    2300138: light_spot_38
+    2300140: light_spot_39
+    2300142: light_spot_40
+    2300144: light_spot_41
+    2300146: light_spot_42
+    2300148: light_spot_43
+    2300150: light_spot_44
+    2300152: light_spot_45
+    2300154: light_spot_46
+    2300156: pant_1
+    2300158: pant_2
+    2300160: pant_3
+    2300162: pant_4
+    2300164: pant_5
+    2300166: pant_6
+    2300168: pant_7
+    2300170: pant_8
+    2300172: pant_9
+    2300174: walls
+    2300176: shirtstack10
+    2300178: shirtstack11
+    2300180: shirtstack12
+    2300182: shirtstack13
+    2300184: shirtstack14
+    2300186: shirtstack15
+    2300188: shirtstack16
+    2300190: shirtstack17
+    2300192: shirtstack18
+    2300194: shirtstack19
+    2300196: shirtstack7
+    2300198: shirtstack8
+    2300200: shirtstack9
+    3300000: bench_05
+    3300002: carb_box_1
+    3300004: carb_box_10
+    3300006: carb_box_11
+    3300008: carb_box_12
+    3300010: carb_box_13
+    3300012: carb_box_14
+    3300014: carb_box_15
+    3300016: carb_box_16
+    3300018: carb_box_17
+    3300020: carb_box_18
+    3300022: carb_box_19
+    3300024: carb_box_2
+    3300026: carb_box_20
+    3300028: carb_box_21
+    3300030: carb_box_22
+    3300032: carb_box_23
+    3300034: carb_box_24
+    3300036: carb_box_25
+    3300038: carb_box_26
+    3300040: carb_box_27
+    3300042: carb_box_28
+    3300044: carb_box_29
+    3300046: carb_box_3
+    3300048: carb_box_30
+    3300050: carb_box_31
+    3300052: carb_box_32
+    3300054: carb_box_33
+    3300056: carb_box_34
+    3300058: carb_box_4
+    3300060: carb_box_5
+    3300062: carb_box_6
+    3300064: carb_box_7
+    3300066: carb_box_8
+    3300068: carb_box_9
+    3300070: Collider
+    3300072: dress_shirt_1
+    3300074: dress_shirt_2
+    3300076: dress_shirt_3
+    3300078: dress_shirt_4
+    3300080: dress_shirt_5
+    3300082: dress_shirt_6
+    3300084: dress_shirt_folded_1
+    3300086: dress_shirt_folded_10
+    3300088: dress_shirt_folded_11
+    3300090: dress_shirt_folded_12
+    3300092: dress_shirt_folded_13
+    3300094: dress_shirt_folded_2
+    3300096: dress_shirt_folded_3
+    3300098: dress_shirt_folded_4
+    3300100: dress_shirt_folded_5
+    3300102: dress_shirt_folded_6
+    3300104: dress_shirt_folded_7
+    3300106: dress_shirt_folded_8
+    3300108: dress_shirt_folded_9
+    3300110: hanger_1
+    3300112: hanger_10
+    3300114: hanger_11
+    3300116: hanger_12
+    3300118: hanger_13
+    3300120: hanger_14
+    3300122: hanger_2
+    3300124: hanger_3
+    3300126: hanger_4
+    3300128: hanger_5
+    3300130: hanger_6
+    3300132: hanger_7
+    3300134: hanger_8
+    3300136: hanger_9
+    3300138: light_spot_38
+    3300140: light_spot_39
+    3300142: light_spot_40
+    3300144: light_spot_41
+    3300146: light_spot_42
+    3300148: light_spot_43
+    3300150: light_spot_44
+    3300152: light_spot_45
+    3300154: light_spot_46
+    3300156: pant_1
+    3300158: pant_2
+    3300160: pant_3
+    3300162: pant_4
+    3300164: pant_5
+    3300166: pant_6
+    3300168: pant_7
+    3300170: pant_8
+    3300172: pant_9
+    3300174: walls
+    3300176: shirtstack10
+    3300178: shirtstack11
+    3300180: shirtstack12
+    3300182: shirtstack13
+    3300184: shirtstack14
+    3300186: shirtstack15
+    3300188: shirtstack16
+    3300190: shirtstack17
+    3300192: shirtstack18
+    3300194: shirtstack19
+    3300196: shirtstack7
+    3300198: shirtstack8
+    3300200: shirtstack9
+    4300000: Collider
+    4300002: bench_05
+    4300004: carb_box_1
+    4300006: carb_box_2
+    4300008: carb_box_3
+    4300010: carb_box_4
+    4300012: carb_box_5
+    4300014: carb_box_6
+    4300016: carb_box_7
+    4300018: carb_box_8
+    4300020: carb_box_9
+    4300022: carb_box_10
+    4300024: carb_box_11
+    4300026: carb_box_12
+    4300028: carb_box_13
+    4300030: carb_box_14
+    4300032: carb_box_15
+    4300034: carb_box_16
+    4300036: carb_box_17
+    4300038: carb_box_18
+    4300040: carb_box_19
+    4300042: carb_box_20
+    4300044: carb_box_21
+    4300046: carb_box_22
+    4300048: carb_box_23
+    4300050: carb_box_24
+    4300052: carb_box_25
+    4300054: carb_box_26
+    4300056: carb_box_27
+    4300058: carb_box_28
+    4300060: carb_box_29
+    4300062: carb_box_30
+    4300064: carb_box_31
+    4300066: carb_box_32
+    4300068: carb_box_33
+    4300070: carb_box_34
+    4300072: light_spot_38
+    4300074: light_spot_39
+    4300076: light_spot_40
+    4300078: light_spot_41
+    4300080: light_spot_42
+    4300082: light_spot_43
+    4300084: light_spot_44
+    4300086: light_spot_45
+    4300088: light_spot_46
+    4300090: walls
+    4300092: pant_7
+    4300094: pant_8
+    4300096: pant_5
+    4300098: pant_2
+    4300100: pant_3
+    4300102: pant_4
+    4300104: pant_1
+    4300106: hanger_4
+    4300108: hanger_5
+    4300110: hanger_6
+    4300112: hanger_7
+    4300114: hanger_8
+    4300116: hanger_9
+    4300118: hanger_1
+    4300120: hanger_2
+    4300122: pant_6
+    4300124: hanger_3
+    4300126: dress_shirt_1
+    4300128: dress_shirt_2
+    4300130: pant_9
+    4300132: hanger_10
+    4300134: hanger_11
+    4300136: hanger_12
+    4300138: hanger_14
+    4300140: hanger_13
+    4300142: dress_shirt_folded_12
+    4300144: dress_shirt_folded_13
+    4300146: dress_shirt_folded_1
+    4300148: dress_shirt_folded_2
+    4300150: dress_shirt_folded_3
+    4300152: dress_shirt_folded_4
+    4300154: dress_shirt_folded_5
+    4300156: dress_shirt_folded_6
+    4300158: dress_shirt_folded_7
+    4300160: dress_shirt_folded_8
+    4300162: dress_shirt_folded_9
+    4300164: dress_shirt_folded_10
+    4300166: dress_shirt_folded_11
+    4300168: dress_shirt_6
+    4300170: dress_shirt_3
+    4300172: dress_shirt_4
+    4300174: dress_shirt_5
+    4300176: shirtstack19
+    4300178: shirtstack18
+    4300180: shirtstack17
+    4300182: shirtstack16
+    4300184: shirtstack15
+    4300186: shirtstack14
+    4300188: shirtstack13
+    4300190: shirtstack12
+    4300192: shirtstack11
+    4300194: shirtstack10
+    4300196: shirtstack9
+    4300198: shirtstack8
+    4300200: shirtstack7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

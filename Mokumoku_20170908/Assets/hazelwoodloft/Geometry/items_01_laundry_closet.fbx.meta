@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 50eb84569051e1b45985cd6bb735121f
+labels:
+- photo-real
+- low-poly
+- city
+- cityscape
+- skyline
+- urban
+- realistic
+- modern
+- loft
+- contemporary
+- architecture
+- interior
+- exterior
+- miscellaneous
+- mobile
+- detail
+- furniture
+- room
+- modular
+- penthouse
+- household
+- wood
+- design
+- minimal
+- home
+- flat
+- roof
+- apartment
+- animated
+- ambience
+- atmosphere
+- day
+- night
+- luxurious
+- high-end
+- lightmaped
+- laundry
+- cupboards
+- detergent
+- washingmachine
+- towels
+- dressshirts
+- lounge
+- couch
+- sofa
+- living
+- spots
+- kitchen
+- bar
+- table
+- windows
+- doors
+- glass
+- chair
+- lights
+- sink
+- statue
+- curtain
+- blinds
+- books
+- tv
+- chimney
+- terrace
+- sundeck
+- balcony
+- patio
+- bench
+- plant
+- hallway
+- stairs
+- bathroom
+- toilet
+- gel
+- soap
+- shampoo
+- magazine
+- shower
+- lotion
+- shelves
+- bedroom
+- carpet
+- bed
+- cushion
+- tablelamp
+- dressshirt
+- pants
+- hanger
+- walk-in
+- closet
+- drawer
+- lighthouse
+- birds
+- curtains
+- sun
+- jetplane
+- horizon
+- rooftop
+- offices
+- Ambience
+- Animated
+- Apartment
+- Architecture
+- Atmosphere
+- Balcony
+- Bar
+- Bathroom
+- Bed
+- Birds
+- Blinds
+- Books
+- Carpet
+- Chair
+- Chimney
+- City
+- Cityscape
+- Closet
+- Contemporary
+- Couch
+- Cupboards
+- Curtain
+- Curtains
+- Cushion
+- Day
+- Design
+- Detail
+- Detergent
+- Doors
+- Drawer
+- Dressshirt
+- Dressshirts
+- Exterior
+- Flat
+- Furniture
+- Gel
+- Glass
+- Hallway
+- Hanger
+- High-end
+- Home
+- Horizon
+- Household
+- Interior
+- Jetplane
+- Kitchen
+- Laundry
+- Lighthouse
+- Lightmaped
+- Lights
+- Living
+- Loft
+- Lotion
+- Lounge
+- Low-poly
+- Luxurious
+- Magazine
+- Minimal
+- Miscellaneous
+- Mobile
+- Modern
+- Modular
+- Night
+- Offices
+- Pants
+- Patio
+- Penthouse
+- Photo-real
+- Plant
+- Realistic
+- Roof
+- Rooftop
+- Room
+- Shampoo
+- Shelves
+- Shower
+- Sink
+- Skyline
+- Soap
+- Sofa
+- Spots
+- Stairs
+- Statue
+- Sun
+- Sundeck
+- Table
+- Tablelamp
+- Terrace
+- Toilet
+- Towels
+- Tv
+- Urban
+- Walk-in
+- Washingmachine
+- Windows
+- Wood
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: carb_box_15
+    100002: carb_box_20
+    100004: carb_box_21
+    100006: card_box_01
+    100008: card_box_010
+    100010: card_box_015
+    100012: card_box_016
+    100014: card_box_017
+    100016: card_box_018
+    100018: card_box_019
+    100020: card_box_02
+    100022: card_box_03
+    100024: card_box_09
+    100026: cotton_recepient1
+    100028: counter_04
+    100030: cupboards_01
+    100032: detergent_02
+    100034: detergent_04
+    100036: detergent_05
+    100038: detergent_06
+    100040: detergent_07
+    100042: door_mat
+    100044: dress_shirt_04
+    100046: dress_shirt_05
+    100048: dress_shirt_06
+    100050: dress_shirt_07
+    100052: dress_shirt_08
+    100054: dress_shirt_1
+    100056: dress_shirt_2
+    100058: dress_shirt_3
+    100060: dress_shirt_4
+    100062: garment_1
+    100064: garment_2
+    100066: garment_3
+    100068: garment_4
+    100070: garment_5
+    100072: garment_6
+    100074: garment_7
+    100076: garment_8
+    100078: garment_9
+    100080: hanger_01
+    100082: hanger_02
+    100084: hanger_03
+    100086: hanger_04
+    100088: hanger_05
+    100090: hanger_10
+    100092: hanger_bar
+    100094: iron
+    100096: //RootNode
+    100098: pants_1
+    100100: rolling_drawers_01
+    100102: rolling_drawers_02
+    100104: rolling_drawers_03
+    100106: towel_01
+    100108: washing_machine1
+    400000: carb_box_15
+    400002: carb_box_20
+    400004: carb_box_21
+    400006: card_box_01
+    400008: card_box_010
+    400010: card_box_015
+    400012: card_box_016
+    400014: card_box_017
+    400016: card_box_018
+    400018: card_box_019
+    400020: card_box_02
+    400022: card_box_03
+    400024: card_box_09
+    400026: cotton_recepient1
+    400028: counter_04
+    400030: cupboards_01
+    400032: detergent_02
+    400034: detergent_04
+    400036: detergent_05
+    400038: detergent_06
+    400040: detergent_07
+    400042: door_mat
+    400044: dress_shirt_04
+    400046: dress_shirt_05
+    400048: dress_shirt_06
+    400050: dress_shirt_07
+    400052: dress_shirt_08
+    400054: dress_shirt_1
+    400056: dress_shirt_2
+    400058: dress_shirt_3
+    400060: dress_shirt_4
+    400062: garment_1
+    400064: garment_2
+    400066: garment_3
+    400068: garment_4
+    400070: garment_5
+    400072: garment_6
+    400074: garment_7
+    400076: garment_8
+    400078: garment_9
+    400080: hanger_01
+    400082: hanger_02
+    400084: hanger_03
+    400086: hanger_04
+    400088: hanger_05
+    400090: hanger_10
+    400092: hanger_bar
+    400094: iron
+    400096: //RootNode
+    400098: pants_1
+    400100: rolling_drawers_01
+    400102: rolling_drawers_02
+    400104: rolling_drawers_03
+    400106: towel_01
+    400108: washing_machine1
+    2300000: carb_box_15
+    2300002: carb_box_20
+    2300004: carb_box_21
+    2300006: card_box_01
+    2300008: card_box_010
+    2300010: card_box_015
+    2300012: card_box_016
+    2300014: card_box_017
+    2300016: card_box_018
+    2300018: card_box_019
+    2300020: card_box_02
+    2300022: card_box_03
+    2300024: card_box_09
+    2300026: cotton_recepient1
+    2300028: counter_04
+    2300030: cupboards_01
+    2300032: detergent_02
+    2300034: detergent_04
+    2300036: detergent_05
+    2300038: detergent_06
+    2300040: detergent_07
+    2300042: door_mat
+    2300044: dress_shirt_04
+    2300046: dress_shirt_05
+    2300048: dress_shirt_06
+    2300050: dress_shirt_07
+    2300052: dress_shirt_08
+    2300054: dress_shirt_1
+    2300056: dress_shirt_2
+    2300058: dress_shirt_3
+    2300060: dress_shirt_4
+    2300062: garment_1
+    2300064: garment_2
+    2300066: garment_3
+    2300068: garment_4
+    2300070: garment_5
+    2300072: garment_6
+    2300074: garment_7
+    2300076: garment_8
+    2300078: garment_9
+    2300080: hanger_01
+    2300082: hanger_02
+    2300084: hanger_03
+    2300086: hanger_04
+    2300088: hanger_05
+    2300090: hanger_10
+    2300092: hanger_bar
+    2300094: iron
+    2300096: pants_1
+    2300098: rolling_drawers_01
+    2300100: rolling_drawers_02
+    2300102: rolling_drawers_03
+    2300104: towel_01
+    2300106: washing_machine1
+    3300000: carb_box_15
+    3300002: carb_box_20
+    3300004: carb_box_21
+    3300006: card_box_01
+    3300008: card_box_010
+    3300010: card_box_015
+    3300012: card_box_016
+    3300014: card_box_017
+    3300016: card_box_018
+    3300018: card_box_019
+    3300020: card_box_02
+    3300022: card_box_03
+    3300024: card_box_09
+    3300026: cotton_recepient1
+    3300028: counter_04
+    3300030: cupboards_01
+    3300032: detergent_02
+    3300034: detergent_04
+    3300036: detergent_05
+    3300038: detergent_06
+    3300040: detergent_07
+    3300042: door_mat
+    3300044: dress_shirt_04
+    3300046: dress_shirt_05
+    3300048: dress_shirt_06
+    3300050: dress_shirt_07
+    3300052: dress_shirt_08
+    3300054: dress_shirt_1
+    3300056: dress_shirt_2
+    3300058: dress_shirt_3
+    3300060: dress_shirt_4
+    3300062: garment_1
+    3300064: garment_2
+    3300066: garment_3
+    3300068: garment_4
+    3300070: garment_5
+    3300072: garment_6
+    3300074: garment_7
+    3300076: garment_8
+    3300078: garment_9
+    3300080: hanger_01
+    3300082: hanger_02
+    3300084: hanger_03
+    3300086: hanger_04
+    3300088: hanger_05
+    3300090: hanger_10
+    3300092: hanger_bar
+    3300094: iron
+    3300096: pants_1
+    3300098: rolling_drawers_01
+    3300100: rolling_drawers_02
+    3300102: rolling_drawers_03
+    3300104: towel_01
+    3300106: washing_machine1
+    4300000: cotton_recepient1
+    4300002: detergent_06
+    4300004: detergent_07
+    4300006: detergent_05
+    4300008: detergent_02
+    4300010: detergent_04
+    4300012: carb_box_15
+    4300014: carb_box_20
+    4300016: carb_box_21
+    4300018: card_box_03
+    4300020: card_box_09
+    4300022: card_box_010
+    4300024: card_box_01
+    4300026: card_box_02
+    4300028: card_box_018
+    4300030: card_box_019
+    4300032: card_box_017
+    4300034: card_box_016
+    4300036: card_box_015
+    4300038: hanger_10
+    4300040: pants_1
+    4300042: iron
+    4300044: washing_machine1
+    4300046: dress_shirt_1
+    4300048: dress_shirt_2
+    4300050: dress_shirt_3
+    4300052: dress_shirt_4
+    4300054: garment_1
+    4300056: garment_2
+    4300058: garment_3
+    4300060: garment_4
+    4300062: garment_5
+    4300064: garment_6
+    4300066: garment_7
+    4300068: garment_8
+    4300070: garment_9
+    4300072: towel_01
+    4300074: rolling_drawers_01
+    4300076: rolling_drawers_03
+    4300078: rolling_drawers_02
+    4300080: counter_04
+    4300082: cupboards_01
+    4300084: hanger_bar
+    4300086: door_mat
+    4300088: hanger_04
+    4300090: hanger_03
+    4300092: hanger_02
+    4300094: hanger_01
+    4300096: hanger_05
+    4300098: dress_shirt_04
+    4300100: dress_shirt_07
+    4300102: dress_shirt_06
+    4300104: dress_shirt_05
+    4300106: dress_shirt_08
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

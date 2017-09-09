@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 7cf8409be7cd36b4da8975da037110ae
+labels:
+- photo-real
+- low-poly
+- city
+- cityscape
+- skyline
+- urban
+- realistic
+- modern
+- loft
+- contemporary
+- architecture
+- interior
+- exterior
+- miscellaneous
+- mobile
+- detail
+- furniture
+- room
+- modular
+- penthouse
+- household
+- wood
+- design
+- minimal
+- home
+- flat
+- roof
+- apartment
+- animated
+- ambience
+- atmosphere
+- day
+- night
+- luxurious
+- high-end
+- lightmaped
+- laundry
+- cupboards
+- detergent
+- washingmachine
+- towels
+- dressshirts
+- lounge
+- couch
+- sofa
+- living
+- spots
+- kitchen
+- bar
+- table
+- windows
+- doors
+- glass
+- chair
+- lights
+- sink
+- statue
+- curtain
+- blinds
+- books
+- tv
+- chimney
+- terrace
+- sundeck
+- balcony
+- patio
+- bench
+- plant
+- hallway
+- stairs
+- bathroom
+- toilet
+- gel
+- soap
+- shampoo
+- magazine
+- shower
+- lotion
+- shelves
+- bedroom
+- carpet
+- bed
+- cushion
+- tablelamp
+- dressshirt
+- pants
+- hanger
+- walk-in
+- closet
+- drawer
+- lighthouse
+- birds
+- curtains
+- sun
+- jetplane
+- horizon
+- rooftop
+- offices
+- Ambience
+- Animated
+- Apartment
+- Architecture
+- Atmosphere
+- Balcony
+- Bar
+- Bathroom
+- Bed
+- Birds
+- Blinds
+- Books
+- Carpet
+- Chair
+- Chimney
+- City
+- Cityscape
+- Closet
+- Contemporary
+- Couch
+- Cupboards
+- Curtain
+- Curtains
+- Cushion
+- Day
+- Design
+- Detail
+- Detergent
+- Doors
+- Drawer
+- Dressshirt
+- Dressshirts
+- Exterior
+- Flat
+- Furniture
+- Gel
+- Glass
+- Hallway
+- Hanger
+- High-end
+- Home
+- Horizon
+- Household
+- Interior
+- Jetplane
+- Kitchen
+- Laundry
+- Lighthouse
+- Lightmaped
+- Lights
+- Living
+- Loft
+- Lotion
+- Lounge
+- Low-poly
+- Luxurious
+- Magazine
+- Minimal
+- Miscellaneous
+- Mobile
+- Modern
+- Modular
+- Night
+- Offices
+- Pants
+- Patio
+- Penthouse
+- Photo-real
+- Plant
+- Realistic
+- Roof
+- Rooftop
+- Room
+- Shampoo
+- Shelves
+- Shower
+- Sink
+- Skyline
+- Soap
+- Sofa
+- Spots
+- Stairs
+- Statue
+- Sun
+- Sundeck
+- Table
+- Tablelamp
+- Terrace
+- Toilet
+- Towels
+- Tv
+- Urban
+- Walk-in
+- Washingmachine
+- Windows
+- Wood
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: base
+    100002: base_02
+    100004: base_1
+    100006: base_2
+    100008: bed_01
+    100010: bed_02
+    100012: bed_bench
+    100014: book_01
+    100016: book_02
+    100018: books_14
+    100020: books_15
+    100022: chair_2
+    100024: cover_01
+    100026: cover_02
+    100028: cover_1
+    100030: cover_2
+    100032: curtain
+    100034: curtain_01
+    100036: curtain_01 1
+    100038: curtain_rail
+    100040: curtain_rail 1
+    100042: curtian_02
+    100044: cushion_01
+    100046: cushion_02
+    100048: cushion_03
+    100050: cushion_1
+    100052: cushion_2
+    100054: cushion_3
+    100056: cushion_5
+    100058: drawers
+    100060: dream_box_1
+    100062: flower_vase
+    100064: gel_10
+    100066: gel_9
+    100068: hanger
+    100070: hgh_towel26
+    100072: high_sqaurecussion1
+    100074: high_sqaurecussion1 1
+    100076: high_sqaurecussion2
+    100078: high_sussionA1
+    100080: high_sussionA1 1
+    100082: high_sussionB1
+    100084: high_sussionB1 1
+    100086: highres_drape1
+    100088: highres_drape1 1
+    100090: highres_matres1
+    100092: highres_matres1 1
+    100094: //RootNode
+    100096: light_spot_table_01
+    100098: lounge_chair
+    100100: magazine_1
+    100102: magazine_4
+    100104: photo_frame_01
+    100106: photo_frame_02
+    100108: rug_1
+    100110: table_01
+    100112: table_1
+    100114: table_lamp_2
+    100116: towels_4
+    100118: towels_5
+    100120: towels_corner_high
+    100122: window_frame
+    100124: window_frame 1
+    400000: base
+    400002: base_02
+    400004: base_1
+    400006: base_2
+    400008: bed_01
+    400010: bed_02
+    400012: bed_bench
+    400014: book_01
+    400016: book_02
+    400018: books_14
+    400020: books_15
+    400022: chair_2
+    400024: cover_01
+    400026: cover_02
+    400028: cover_1
+    400030: cover_2
+    400032: curtain
+    400034: curtain_01
+    400036: curtain_01 1
+    400038: curtain_rail
+    400040: curtain_rail 1
+    400042: curtian_02
+    400044: cushion_01
+    400046: cushion_02
+    400048: cushion_03
+    400050: cushion_1
+    400052: cushion_2
+    400054: cushion_3
+    400056: cushion_5
+    400058: drawers
+    400060: dream_box_1
+    400062: flower_vase
+    400064: gel_10
+    400066: gel_9
+    400068: hanger
+    400070: hgh_towel26
+    400072: high_sqaurecussion1
+    400074: high_sqaurecussion1 1
+    400076: high_sqaurecussion2
+    400078: high_sussionA1
+    400080: high_sussionA1 1
+    400082: high_sussionB1
+    400084: high_sussionB1 1
+    400086: highres_drape1
+    400088: highres_drape1 1
+    400090: highres_matres1
+    400092: highres_matres1 1
+    400094: //RootNode
+    400096: light_spot_table_01
+    400098: lounge_chair
+    400100: magazine_1
+    400102: magazine_4
+    400104: photo_frame_01
+    400106: photo_frame_02
+    400108: rug_1
+    400110: table_01
+    400112: table_1
+    400114: table_lamp_2
+    400116: towels_4
+    400118: towels_5
+    400120: towels_corner_high
+    400122: window_frame
+    400124: window_frame 1
+    2300000: base
+    2300002: base_02
+    2300004: base_1
+    2300006: base_2
+    2300008: bed_bench
+    2300010: book_01
+    2300012: book_02
+    2300014: books_14
+    2300016: books_15
+    2300018: chair_2
+    2300020: cover_01
+    2300022: cover_02
+    2300024: cover_1
+    2300026: cover_2
+    2300028: curtain
+    2300030: curtain_01 1
+    2300032: curtain_rail
+    2300034: curtain_rail 1
+    2300036: cushion_01
+    2300038: cushion_02
+    2300040: cushion_03
+    2300042: cushion_1
+    2300044: cushion_2
+    2300046: cushion_3
+    2300048: cushion_5
+    2300050: drawers
+    2300052: dream_box_1
+    2300054: flower_vase
+    2300056: gel_10
+    2300058: gel_9
+    2300060: hanger
+    2300062: hgh_towel26
+    2300064: high_sqaurecussion1
+    2300066: high_sqaurecussion1 1
+    2300068: high_sqaurecussion2
+    2300070: high_sussionA1
+    2300072: high_sussionA1 1
+    2300074: high_sussionB1
+    2300076: high_sussionB1 1
+    2300078: highres_drape1
+    2300080: highres_drape1 1
+    2300082: highres_matres1
+    2300084: highres_matres1 1
+    2300086: light_spot_table_01
+    2300088: lounge_chair
+    2300090: magazine_1
+    2300092: magazine_4
+    2300094: photo_frame_01
+    2300096: photo_frame_02
+    2300098: rug_1
+    2300100: table_01
+    2300102: table_1
+    2300104: table_lamp_2
+    2300106: towels_4
+    2300108: towels_5
+    2300110: towels_corner_high
+    2300112: window_frame
+    2300114: window_frame 1
+    3300000: base
+    3300002: base_02
+    3300004: base_1
+    3300006: base_2
+    3300008: bed_bench
+    3300010: book_01
+    3300012: book_02
+    3300014: books_14
+    3300016: books_15
+    3300018: chair_2
+    3300020: cover_01
+    3300022: cover_02
+    3300024: cover_1
+    3300026: cover_2
+    3300028: curtain
+    3300030: curtain_01 1
+    3300032: curtain_rail
+    3300034: curtain_rail 1
+    3300036: cushion_01
+    3300038: cushion_02
+    3300040: cushion_03
+    3300042: cushion_1
+    3300044: cushion_2
+    3300046: cushion_3
+    3300048: cushion_5
+    3300050: drawers
+    3300052: dream_box_1
+    3300054: flower_vase
+    3300056: gel_10
+    3300058: gel_9
+    3300060: hanger
+    3300062: hgh_towel26
+    3300064: high_sqaurecussion1
+    3300066: high_sqaurecussion1 1
+    3300068: high_sqaurecussion2
+    3300070: high_sussionA1
+    3300072: high_sussionA1 1
+    3300074: high_sussionB1
+    3300076: high_sussionB1 1
+    3300078: highres_drape1
+    3300080: highres_drape1 1
+    3300082: highres_matres1
+    3300084: highres_matres1 1
+    3300086: light_spot_table_01
+    3300088: lounge_chair
+    3300090: magazine_1
+    3300092: magazine_4
+    3300094: photo_frame_01
+    3300096: photo_frame_02
+    3300098: rug_1
+    3300100: table_01
+    3300102: table_1
+    3300104: table_lamp_2
+    3300106: towels_4
+    3300108: towels_5
+    3300110: towels_corner_high
+    3300112: window_frame
+    3300114: window_frame 1
+    4300000: curtain
+    4300002: curtain_rail
+    4300004: window_frame
+    4300006: window_frame
+    4300008: curtain_rail
+    4300010: curtain_01
+    4300012: bed_bench
+    4300014: cover_01
+    4300016: cover_02
+    4300018: cushion_01
+    4300020: cushion_02
+    4300022: cushion_03
+    4300024: base_02
+    4300026: base
+    4300028: high_sqaurecussion1
+    4300030: high_sussionB1
+    4300032: high_sussionA1
+    4300034: highres_drape1
+    4300036: highres_matres1
+    4300038: highres_matres1
+    4300040: high_sussionA1
+    4300042: high_sussionB1
+    4300044: high_sqaurecussion1
+    4300046: highres_drape1
+    4300048: cover_1
+    4300050: cover_2
+    4300052: cushion_3
+    4300054: cushion_1
+    4300056: cushion_2
+    4300058: base_2
+    4300060: base_1
+    4300062: hanger
+    4300064: towels_4
+    4300066: towels_5
+    4300068: towels_corner_high
+    4300070: rug_1
+    4300072: chair_2
+    4300074: table_1
+    4300076: magazine_4
+    4300078: magazine_1
+    4300080: cushion_5
+    4300082: high_sqaurecussion2
+    4300084: table_01
+    4300086: drawers
+    4300088: lounge_chair
+    4300090: photo_frame_02
+    4300092: photo_frame_01
+    4300094: light_spot_table_01
+    4300096: table_lamp_2
+    4300098: dream_box_1
+    4300100: books_14
+    4300102: books_15
+    4300104: book_01
+    4300106: book_02
+    4300108: hgh_towel26
+    4300110: gel_10
+    4300112: gel_9
+    4300114: flower_vase
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

@@ -1,0 +1,1743 @@
+fileFormatVersion: 2
+guid: 2dd4a36bac7c63147977e448eaee9c17
+labels:
+- photo-real
+- low-poly
+- city
+- cityscape
+- skyline
+- urban
+- realistic
+- modern
+- loft
+- contemporary
+- architecture
+- interior
+- exterior
+- miscellaneous
+- mobile
+- detail
+- furniture
+- room
+- modular
+- penthouse
+- household
+- wood
+- design
+- minimal
+- home
+- flat
+- roof
+- apartment
+- animated
+- ambience
+- atmosphere
+- day
+- night
+- luxurious
+- high-end
+- lightmaped
+- laundry
+- cupboards
+- detergent
+- washingmachine
+- towels
+- dressshirts
+- lounge
+- couch
+- sofa
+- living
+- spots
+- kitchen
+- bar
+- table
+- windows
+- doors
+- glass
+- chair
+- lights
+- sink
+- statue
+- curtain
+- blinds
+- books
+- tv
+- chimney
+- terrace
+- sundeck
+- balcony
+- patio
+- bench
+- plant
+- hallway
+- stairs
+- bathroom
+- toilet
+- gel
+- soap
+- shampoo
+- magazine
+- shower
+- lotion
+- shelves
+- bedroom
+- carpet
+- bed
+- cushion
+- tablelamp
+- dressshirt
+- pants
+- hanger
+- walk-in
+- closet
+- drawer
+- lighthouse
+- birds
+- curtains
+- sun
+- jetplane
+- horizon
+- rooftop
+- offices
+- Ambience
+- Animated
+- Apartment
+- Architecture
+- Atmosphere
+- Balcony
+- Bar
+- Bathroom
+- Bed
+- Birds
+- Blinds
+- Books
+- Carpet
+- Chair
+- Chimney
+- City
+- Cityscape
+- Closet
+- Contemporary
+- Couch
+- Cupboards
+- Curtain
+- Curtains
+- Cushion
+- Day
+- Design
+- Detail
+- Detergent
+- Doors
+- Drawer
+- Dressshirt
+- Dressshirts
+- Exterior
+- Flat
+- Furniture
+- Gel
+- Glass
+- Hallway
+- Hanger
+- High-end
+- Home
+- Horizon
+- Household
+- Interior
+- Jetplane
+- Kitchen
+- Laundry
+- Lighthouse
+- Lightmaped
+- Lights
+- Living
+- Loft
+- Lotion
+- Lounge
+- Low-poly
+- Luxurious
+- Magazine
+- Minimal
+- Miscellaneous
+- Mobile
+- Modern
+- Modular
+- Night
+- Offices
+- Pants
+- Patio
+- Penthouse
+- Photo-real
+- Plant
+- Realistic
+- Roof
+- Rooftop
+- Room
+- Shampoo
+- Shelves
+- Shower
+- Sink
+- Skyline
+- Soap
+- Sofa
+- Spots
+- Stairs
+- Statue
+- Sun
+- Sundeck
+- Table
+- Tablelamp
+- Terrace
+- Toilet
+- Towels
+- Tv
+- Urban
+- Walk-in
+- Washingmachine
+- Windows
+- Wood
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AC1
+    100002: AC13
+    100004: AC2
+    100006: AC3
+    100008: AC4
+    100010: antenaflareA1
+    100012: antenaflareB1
+    100014: antenaflareB2
+    100016: antenaflareC1
+    100018: antenaflareC2
+    100020: antenaflareD1
+    100022: antenaflareD8
+    100024: antenaflareD9
+    100026: antenaflareE1
+    100028: antenaflareE2
+    100030: antenaflareE3
+    100032: antenaflareE4
+    100034: antenaflareE5
+    100036: antenaflareE6
+    100038: antenaflareE7
+    100040: Antenna1
+    100042: Antenna10
+    100044: Antenna11
+    100046: Antenna12
+    100048: Antenna13
+    100050: Antenna14
+    100052: Antenna15
+    100054: Antenna2
+    100056: Antenna3
+    100058: Antenna4
+    100060: Antenna5
+    100062: antenna_tech1
+    100064: antenna_tech11
+    100066: antenna_tech12
+    100068: antenna_tech14
+    100070: antenna_tech2
+    100072: antenna_tech21
+    100074: antenna_tech25
+    100076: antenna_tech26
+    100078: antenna_tech28
+    100080: antenna_tech29
+    100082: antenna_tech3
+    100084: antenna_tech30
+    100086: antenna_tech31
+    100088: antenna_tech32
+    100090: antenna_tech33
+    100092: antenna_tech34
+    100094: antenna_tech35
+    100096: antenna_tech36
+    100098: antenna_tech37
+    100100: antenna_tech38
+    100102: antenna_tech39
+    100104: antenna_tech4
+    100106: antenna_tech40
+    100108: antenna_tech41
+    100110: antenna_tech42
+    100112: antenna_tech43
+    100114: antenna_tech44
+    100116: antenna_tech45
+    100118: antenna_tech46
+    100120: antenna_tech47
+    100122: antenna_tech48
+    100124: antenna_tech49
+    100126: antenna_tech50
+    100128: antenna_tech9
+    100130: buiding5_win
+    100132: building10_top
+    100134: building10_win
+    100136: building10_win1
+    100138: building12_win
+    100140: building13_rooftop
+    100142: building13_win
+    100144: building15_front
+    100146: building16_rooftop
+    100148: building16_win
+    100150: building16_win1
+    100152: building16_win2
+    100154: building17_rooftop
+    100156: building18_rooftop
+    100158: building19_front
+    100160: building19_top_temp1
+    100162: building19_win
+    100164: building1_win
+    100166: building20_back_temp
+    100168: building20_front
+    100170: building20_win
+    100172: building21_front
+    100174: building22_balcony_rail
+    100176: building22_front
+    100178: building22_front_win
+    100180: building23_front
+    100182: building2_win
+    100184: building3_front
+    100186: building45_rooftop
+    100188: building4_balcony
+    100190: building4_doors
+    100192: building4_win
+    100194: building7_win
+    100196: building7_win1
+    100198: building9_win
+    100200: building_1
+    100202: building_10
+    100204: building_11
+    100206: building_12
+    100208: building_13
+    100210: building_14
+    100212: building_16
+    100214: building_2
+    100216: building_27
+    100218: building_3
+    100220: building_38
+    100222: building_4
+    100224: building_49
+    100226: building_5
+    100228: building_7
+    100230: building_8
+    100232: building_9
+    100234: building_city29_back_temp
+    100236: building_city29_front
+    100238: building_city30_back_temp
+    100240: building_city30_front
+    100242: building_city31_back_temp
+    100244: building_city31_front
+    100246: building_city32_back_temp
+    100248: building_city32_front
+    100250: building_city33_back_temp
+    100252: building_city33_front
+    100254: building_city34_back_temp
+    100256: building_city34_front
+    100258: building_city35_back_temp
+    100260: building_city35_front
+    100262: building_city36_back_temp
+    100264: building_city36_front
+    100266: building_city37_back_temp
+    100268: building_city37_front
+    100270: building_city39_front
+    100272: building_city40_front
+    100274: building_city42_front
+    100276: building_city43_front
+    100278: building_city44_front
+    100280: building_city44_front1
+    100282: building_city45_front
+    100284: building_city48_front
+    100286: building_city50_front
+    100288: building_city51_front
+    100290: building_city52_front
+    100292: building_city53_front
+    100294: building_city54_front
+    100296: building_city56_back_temp
+    100298: building_city56_front
+    100300: building_city59_back_temp
+    100302: building_city59_front
+    100304: building_city60_front
+    100306: building_city61_front
+    100308: building_city62_front
+    100310: building_city_24_back_temp
+    100312: building_city_24_front
+    100314: building_city_25_back_temp
+    100316: building_city_25_front
+    100318: building_city_26_back_temp
+    100320: building_city_26_cylindre1
+    100322: building_city_26_cylindre2
+    100324: building_city_26_cylindre3
+    100326: building_city_26_front
+    100328: building_city_26_side
+    100330: building_city_26_top
+    100332: building_city_27_back_temp
+    100334: building_city_28_back_temp
+    100336: building_city_28_front
+    100338: building_city_41
+    100340: building_city_47_back_temp
+    100342: building_city_47_front
+    100344: building_city_63_back_temp
+    100346: building_city_63_front
+    100348: building_city_64_back_temp
+    100350: building_city_64_front
+    100352: building_city_65_back_temp
+    100354: building_city_65_front
+    100356: building_interior
+    100358: buildingcity_55
+    100360: bulding17
+    100362: bulding18
+    100364: bulding1_sides1
+    100366: bulding1_win
+    100368: conevent4
+    100370: conevent5
+    100372: conevent6
+    100374: doorA1
+    100376: doorB1
+    100378: doorB2
+    100380: doorB3
+    100382: doorB4
+    100384: doorB5
+    100386: generator11
+    100388: generator12
+    100390: generator13
+    100392: generator17
+    100394: generator18
+    100396: generator2
+    100398: generator23
+    100400: generator24
+    100402: generator25
+    100404: generator26
+    100406: generator27
+    100408: generator28
+    100410: generator29
+    100412: generator3
+    100414: generator30
+    100416: generator31
+    100418: generator32
+    100420: generator38
+    100422: generator39
+    100424: generator4
+    100426: generator40
+    100428: generator41
+    100430: generator42
+    100432: generator5
+    100434: generator7
+    100436: generator8
+    100438: generator9
+    100440: group1
+    100442: group10
+    100444: group11
+    100446: group12
+    100448: group13
+    100450: group14
+    100452: group15
+    100454: group16
+    100456: group17
+    100458: group18
+    100460: group19
+    100462: group2
+    100464: group20
+    100466: group21
+    100468: group22
+    100470: group23
+    100472: group24
+    100474: group25
+    100476: group26
+    100478: group27
+    100480: group28
+    100482: group29
+    100484: group3
+    100486: group30
+    100488: group31
+    100490: group32
+    100492: group33
+    100494: group34
+    100496: group35
+    100498: group36
+    100500: group37
+    100502: group38
+    100504: group39
+    100506: group4
+    100508: group40
+    100510: group41
+    100512: group42
+    100514: group43
+    100516: group44
+    100518: group45
+    100520: group46
+    100522: group47
+    100524: group48
+    100526: group49
+    100528: group5
+    100530: group50
+    100532: group51
+    100534: group52
+    100536: group53
+    100538: group54
+    100540: group55
+    100542: group56
+    100544: group57
+    100546: group58
+    100548: group59
+    100550: group6
+    100552: group60
+    100554: group61
+    100556: group62
+    100558: group63
+    100560: group7
+    100562: group8
+    100564: group9
+    100566: industrial_cheminy1
+    100568: industrial_cheminy2
+    100570: industrial_cheminy3
+    100572: metalbox1
+    100574: metalbox10
+    100576: metalbox11
+    100578: metalbox13
+    100580: metalbox14
+    100582: metalbox15
+    100584: metalbox16
+    100586: metalbox17
+    100588: metalbox18
+    100590: metalbox19
+    100592: metalbox20
+    100594: metalbox21
+    100596: metalbox26
+    100598: metalbox27
+    100600: metalbox30
+    100602: metalbox31
+    100604: metalbox32
+    100606: metalbox33
+    100608: metalbox34
+    100610: metalbox35
+    100612: metalbox36
+    100614: metalbox38
+    100616: metalbox39
+    100618: metalbox4
+    100620: metalbox44
+    100622: metalbox45
+    100624: metalbox46
+    100626: metalbox5
+    100628: metalbox55
+    100630: metalbox56
+    100632: metalbox57
+    100634: metalbox58
+    100636: metalbox59
+    100638: metalbox6
+    100640: metalbox8
+    100642: metalbox9
+    100644: rooftop3_props
+    100646: rooftop4_rops_united
+    100648: rooftop_industry_triangle1
+    100650: rooftop_industry_triangle2
+    100652: rooftop_industry_triangle3
+    100654: rooftop_isolation2
+    100656: rooftop_isolation3
+    100658: rooftop_isolation4
+    100660: rooftop_isolation5
+    100662: rooftop_isolation6
+    100664: rooftop_isolation7
+    100666: //RootNode
+    100668: villemarie_cube_anim
+    100670: villemarie_cube_collider
+    400000: AC1
+    400002: AC13
+    400004: AC2
+    400006: AC3
+    400008: AC4
+    400010: antenaflareA1
+    400012: antenaflareB1
+    400014: antenaflareB2
+    400016: antenaflareC1
+    400018: antenaflareC2
+    400020: antenaflareD1
+    400022: antenaflareD8
+    400024: antenaflareD9
+    400026: antenaflareE1
+    400028: antenaflareE2
+    400030: antenaflareE3
+    400032: antenaflareE4
+    400034: antenaflareE5
+    400036: antenaflareE6
+    400038: antenaflareE7
+    400040: Antenna1
+    400042: Antenna10
+    400044: Antenna11
+    400046: Antenna12
+    400048: Antenna13
+    400050: Antenna14
+    400052: Antenna15
+    400054: Antenna2
+    400056: Antenna3
+    400058: Antenna4
+    400060: Antenna5
+    400062: antenna_tech1
+    400064: antenna_tech11
+    400066: antenna_tech12
+    400068: antenna_tech14
+    400070: antenna_tech2
+    400072: antenna_tech21
+    400074: antenna_tech25
+    400076: antenna_tech26
+    400078: antenna_tech28
+    400080: antenna_tech29
+    400082: antenna_tech3
+    400084: antenna_tech30
+    400086: antenna_tech31
+    400088: antenna_tech32
+    400090: antenna_tech33
+    400092: antenna_tech34
+    400094: antenna_tech35
+    400096: antenna_tech36
+    400098: antenna_tech37
+    400100: antenna_tech38
+    400102: antenna_tech39
+    400104: antenna_tech4
+    400106: antenna_tech40
+    400108: antenna_tech41
+    400110: antenna_tech42
+    400112: antenna_tech43
+    400114: antenna_tech44
+    400116: antenna_tech45
+    400118: antenna_tech46
+    400120: antenna_tech47
+    400122: antenna_tech48
+    400124: antenna_tech49
+    400126: antenna_tech50
+    400128: antenna_tech9
+    400130: buiding5_win
+    400132: building10_top
+    400134: building10_win
+    400136: building10_win1
+    400138: building12_win
+    400140: building13_rooftop
+    400142: building13_win
+    400144: building15_front
+    400146: building16_rooftop
+    400148: building16_win
+    400150: building16_win1
+    400152: building16_win2
+    400154: building17_rooftop
+    400156: building18_rooftop
+    400158: building19_front
+    400160: building19_top_temp1
+    400162: building19_win
+    400164: building1_win
+    400166: building20_back_temp
+    400168: building20_front
+    400170: building20_win
+    400172: building21_front
+    400174: building22_balcony_rail
+    400176: building22_front
+    400178: building22_front_win
+    400180: building23_front
+    400182: building2_win
+    400184: building3_front
+    400186: building45_rooftop
+    400188: building4_balcony
+    400190: building4_doors
+    400192: building4_win
+    400194: building7_win
+    400196: building7_win1
+    400198: building9_win
+    400200: building_1
+    400202: building_10
+    400204: building_11
+    400206: building_12
+    400208: building_13
+    400210: building_14
+    400212: building_16
+    400214: building_2
+    400216: building_27
+    400218: building_3
+    400220: building_38
+    400222: building_4
+    400224: building_49
+    400226: building_5
+    400228: building_7
+    400230: building_8
+    400232: building_9
+    400234: building_city29_back_temp
+    400236: building_city29_front
+    400238: building_city30_back_temp
+    400240: building_city30_front
+    400242: building_city31_back_temp
+    400244: building_city31_front
+    400246: building_city32_back_temp
+    400248: building_city32_front
+    400250: building_city33_back_temp
+    400252: building_city33_front
+    400254: building_city34_back_temp
+    400256: building_city34_front
+    400258: building_city35_back_temp
+    400260: building_city35_front
+    400262: building_city36_back_temp
+    400264: building_city36_front
+    400266: building_city37_back_temp
+    400268: building_city37_front
+    400270: building_city39_front
+    400272: building_city40_front
+    400274: building_city42_front
+    400276: building_city43_front
+    400278: building_city44_front
+    400280: building_city44_front1
+    400282: building_city45_front
+    400284: building_city48_front
+    400286: building_city50_front
+    400288: building_city51_front
+    400290: building_city52_front
+    400292: building_city53_front
+    400294: building_city54_front
+    400296: building_city56_back_temp
+    400298: building_city56_front
+    400300: building_city59_back_temp
+    400302: building_city59_front
+    400304: building_city60_front
+    400306: building_city61_front
+    400308: building_city62_front
+    400310: building_city_24_back_temp
+    400312: building_city_24_front
+    400314: building_city_25_back_temp
+    400316: building_city_25_front
+    400318: building_city_26_back_temp
+    400320: building_city_26_cylindre1
+    400322: building_city_26_cylindre2
+    400324: building_city_26_cylindre3
+    400326: building_city_26_front
+    400328: building_city_26_side
+    400330: building_city_26_top
+    400332: building_city_27_back_temp
+    400334: building_city_28_back_temp
+    400336: building_city_28_front
+    400338: building_city_41
+    400340: building_city_47_back_temp
+    400342: building_city_47_front
+    400344: building_city_63_back_temp
+    400346: building_city_63_front
+    400348: building_city_64_back_temp
+    400350: building_city_64_front
+    400352: building_city_65_back_temp
+    400354: building_city_65_front
+    400356: building_interior
+    400358: buildingcity_55
+    400360: bulding17
+    400362: bulding18
+    400364: bulding1_sides1
+    400366: bulding1_win
+    400368: conevent4
+    400370: conevent5
+    400372: conevent6
+    400374: doorA1
+    400376: doorB1
+    400378: doorB2
+    400380: doorB3
+    400382: doorB4
+    400384: doorB5
+    400386: generator11
+    400388: generator12
+    400390: generator13
+    400392: generator17
+    400394: generator18
+    400396: generator2
+    400398: generator23
+    400400: generator24
+    400402: generator25
+    400404: generator26
+    400406: generator27
+    400408: generator28
+    400410: generator29
+    400412: generator3
+    400414: generator30
+    400416: generator31
+    400418: generator32
+    400420: generator38
+    400422: generator39
+    400424: generator4
+    400426: generator40
+    400428: generator41
+    400430: generator42
+    400432: generator5
+    400434: generator7
+    400436: generator8
+    400438: generator9
+    400440: group1
+    400442: group10
+    400444: group11
+    400446: group12
+    400448: group13
+    400450: group14
+    400452: group15
+    400454: group16
+    400456: group17
+    400458: group18
+    400460: group19
+    400462: group2
+    400464: group20
+    400466: group21
+    400468: group22
+    400470: group23
+    400472: group24
+    400474: group25
+    400476: group26
+    400478: group27
+    400480: group28
+    400482: group29
+    400484: group3
+    400486: group30
+    400488: group31
+    400490: group32
+    400492: group33
+    400494: group34
+    400496: group35
+    400498: group36
+    400500: group37
+    400502: group38
+    400504: group39
+    400506: group4
+    400508: group40
+    400510: group41
+    400512: group42
+    400514: group43
+    400516: group44
+    400518: group45
+    400520: group46
+    400522: group47
+    400524: group48
+    400526: group49
+    400528: group5
+    400530: group50
+    400532: group51
+    400534: group52
+    400536: group53
+    400538: group54
+    400540: group55
+    400542: group56
+    400544: group57
+    400546: group58
+    400548: group59
+    400550: group6
+    400552: group60
+    400554: group61
+    400556: group62
+    400558: group63
+    400560: group7
+    400562: group8
+    400564: group9
+    400566: industrial_cheminy1
+    400568: industrial_cheminy2
+    400570: industrial_cheminy3
+    400572: metalbox1
+    400574: metalbox10
+    400576: metalbox11
+    400578: metalbox13
+    400580: metalbox14
+    400582: metalbox15
+    400584: metalbox16
+    400586: metalbox17
+    400588: metalbox18
+    400590: metalbox19
+    400592: metalbox20
+    400594: metalbox21
+    400596: metalbox26
+    400598: metalbox27
+    400600: metalbox30
+    400602: metalbox31
+    400604: metalbox32
+    400606: metalbox33
+    400608: metalbox34
+    400610: metalbox35
+    400612: metalbox36
+    400614: metalbox38
+    400616: metalbox39
+    400618: metalbox4
+    400620: metalbox44
+    400622: metalbox45
+    400624: metalbox46
+    400626: metalbox5
+    400628: metalbox55
+    400630: metalbox56
+    400632: metalbox57
+    400634: metalbox58
+    400636: metalbox59
+    400638: metalbox6
+    400640: metalbox8
+    400642: metalbox9
+    400644: rooftop3_props
+    400646: rooftop4_rops_united
+    400648: rooftop_industry_triangle1
+    400650: rooftop_industry_triangle2
+    400652: rooftop_industry_triangle3
+    400654: rooftop_isolation2
+    400656: rooftop_isolation3
+    400658: rooftop_isolation4
+    400660: rooftop_isolation5
+    400662: rooftop_isolation6
+    400664: rooftop_isolation7
+    400666: //RootNode
+    400668: villemarie_cube_anim
+    400670: villemarie_cube_collider
+    2300000: AC1
+    2300002: AC13
+    2300004: AC2
+    2300006: AC3
+    2300008: AC4
+    2300010: antenaflareA1
+    2300012: antenaflareB1
+    2300014: antenaflareB2
+    2300016: antenaflareC1
+    2300018: antenaflareC2
+    2300020: antenaflareD1
+    2300022: antenaflareD8
+    2300024: antenaflareD9
+    2300026: antenaflareE1
+    2300028: antenaflareE2
+    2300030: antenaflareE3
+    2300032: antenaflareE4
+    2300034: antenaflareE5
+    2300036: antenaflareE6
+    2300038: antenaflareE7
+    2300040: Antenna1
+    2300042: Antenna10
+    2300044: Antenna11
+    2300046: Antenna12
+    2300048: Antenna13
+    2300050: Antenna14
+    2300052: Antenna15
+    2300054: Antenna2
+    2300056: Antenna3
+    2300058: Antenna4
+    2300060: Antenna5
+    2300062: antenna_tech1
+    2300064: antenna_tech11
+    2300066: antenna_tech12
+    2300068: antenna_tech14
+    2300070: antenna_tech2
+    2300072: antenna_tech21
+    2300074: antenna_tech25
+    2300076: antenna_tech26
+    2300078: antenna_tech28
+    2300080: antenna_tech29
+    2300082: antenna_tech3
+    2300084: antenna_tech30
+    2300086: antenna_tech31
+    2300088: antenna_tech32
+    2300090: antenna_tech33
+    2300092: antenna_tech34
+    2300094: antenna_tech35
+    2300096: antenna_tech36
+    2300098: antenna_tech37
+    2300100: antenna_tech38
+    2300102: antenna_tech39
+    2300104: antenna_tech4
+    2300106: antenna_tech40
+    2300108: antenna_tech41
+    2300110: antenna_tech42
+    2300112: antenna_tech43
+    2300114: antenna_tech44
+    2300116: antenna_tech45
+    2300118: antenna_tech46
+    2300120: antenna_tech47
+    2300122: antenna_tech48
+    2300124: antenna_tech49
+    2300126: antenna_tech50
+    2300128: antenna_tech9
+    2300130: buiding5_win
+    2300132: building10_top
+    2300134: building10_win
+    2300136: building10_win1
+    2300138: building12_win
+    2300140: building13_rooftop
+    2300142: building13_win
+    2300144: building15_front
+    2300146: building16_rooftop
+    2300148: building16_win
+    2300150: building16_win1
+    2300152: building16_win2
+    2300154: building17_rooftop
+    2300156: building18_rooftop
+    2300158: building19_front
+    2300160: building19_top_temp1
+    2300162: building19_win
+    2300164: building1_win
+    2300166: building20_back_temp
+    2300168: building20_front
+    2300170: building20_win
+    2300172: building21_front
+    2300174: building22_balcony_rail
+    2300176: building22_front
+    2300178: building22_front_win
+    2300180: building23_front
+    2300182: building2_win
+    2300184: building3_front
+    2300186: building45_rooftop
+    2300188: building4_balcony
+    2300190: building4_doors
+    2300192: building4_win
+    2300194: building7_win
+    2300196: building7_win1
+    2300198: building9_win
+    2300200: building_1
+    2300202: building_10
+    2300204: building_11
+    2300206: building_12
+    2300208: building_13
+    2300210: building_14
+    2300212: building_16
+    2300214: building_2
+    2300216: building_27
+    2300218: building_3
+    2300220: building_38
+    2300222: building_4
+    2300224: building_49
+    2300226: building_5
+    2300228: building_7
+    2300230: building_8
+    2300232: building_9
+    2300234: building_city29_back_temp
+    2300236: building_city29_front
+    2300238: building_city30_back_temp
+    2300240: building_city30_front
+    2300242: building_city31_back_temp
+    2300244: building_city31_front
+    2300246: building_city32_back_temp
+    2300248: building_city32_front
+    2300250: building_city33_back_temp
+    2300252: building_city33_front
+    2300254: building_city34_back_temp
+    2300256: building_city34_front
+    2300258: building_city35_back_temp
+    2300260: building_city35_front
+    2300262: building_city36_back_temp
+    2300264: building_city36_front
+    2300266: building_city37_back_temp
+    2300268: building_city37_front
+    2300270: building_city39_front
+    2300272: building_city40_front
+    2300274: building_city42_front
+    2300276: building_city43_front
+    2300278: building_city44_front
+    2300280: building_city44_front1
+    2300282: building_city45_front
+    2300284: building_city48_front
+    2300286: building_city50_front
+    2300288: building_city51_front
+    2300290: building_city52_front
+    2300292: building_city53_front
+    2300294: building_city54_front
+    2300296: building_city56_back_temp
+    2300298: building_city56_front
+    2300300: building_city59_back_temp
+    2300302: building_city59_front
+    2300304: building_city60_front
+    2300306: building_city61_front
+    2300308: building_city62_front
+    2300310: building_city_24_back_temp
+    2300312: building_city_24_front
+    2300314: building_city_25_back_temp
+    2300316: building_city_25_front
+    2300318: building_city_26_back_temp
+    2300320: building_city_26_cylindre1
+    2300322: building_city_26_cylindre2
+    2300324: building_city_26_cylindre3
+    2300326: building_city_26_front
+    2300328: building_city_26_side
+    2300330: building_city_26_top
+    2300332: building_city_27_back_temp
+    2300334: building_city_28_back_temp
+    2300336: building_city_28_front
+    2300338: building_city_41
+    2300340: building_city_47_back_temp
+    2300342: building_city_47_front
+    2300344: building_city_63_back_temp
+    2300346: building_city_63_front
+    2300348: building_city_64_back_temp
+    2300350: building_city_64_front
+    2300352: building_city_65_back_temp
+    2300354: building_city_65_front
+    2300356: building_interior
+    2300358: buildingcity_55
+    2300360: bulding17
+    2300362: bulding18
+    2300364: bulding1_sides1
+    2300366: bulding1_win
+    2300368: conevent4
+    2300370: conevent5
+    2300372: conevent6
+    2300374: doorA1
+    2300376: doorB1
+    2300378: doorB2
+    2300380: doorB3
+    2300382: doorB4
+    2300384: doorB5
+    2300386: generator11
+    2300388: generator12
+    2300390: generator13
+    2300392: generator17
+    2300394: generator18
+    2300396: generator2
+    2300398: generator23
+    2300400: generator24
+    2300402: generator25
+    2300404: generator26
+    2300406: generator27
+    2300408: generator28
+    2300410: generator29
+    2300412: generator3
+    2300414: generator30
+    2300416: generator31
+    2300418: generator32
+    2300420: generator38
+    2300422: generator39
+    2300424: generator4
+    2300426: generator40
+    2300428: generator41
+    2300430: generator42
+    2300432: generator5
+    2300434: generator7
+    2300436: generator8
+    2300438: generator9
+    2300440: industrial_cheminy1
+    2300442: industrial_cheminy2
+    2300444: industrial_cheminy3
+    2300446: metalbox1
+    2300448: metalbox10
+    2300450: metalbox11
+    2300452: metalbox13
+    2300454: metalbox14
+    2300456: metalbox15
+    2300458: metalbox16
+    2300460: metalbox17
+    2300462: metalbox18
+    2300464: metalbox19
+    2300466: metalbox20
+    2300468: metalbox21
+    2300470: metalbox26
+    2300472: metalbox27
+    2300474: metalbox30
+    2300476: metalbox31
+    2300478: metalbox32
+    2300480: metalbox33
+    2300482: metalbox34
+    2300484: metalbox35
+    2300486: metalbox36
+    2300488: metalbox38
+    2300490: metalbox39
+    2300492: metalbox4
+    2300494: metalbox44
+    2300496: metalbox45
+    2300498: metalbox46
+    2300500: metalbox5
+    2300502: metalbox55
+    2300504: metalbox56
+    2300506: metalbox57
+    2300508: metalbox58
+    2300510: metalbox59
+    2300512: metalbox6
+    2300514: metalbox8
+    2300516: metalbox9
+    2300518: rooftop3_props
+    2300520: rooftop4_rops_united
+    2300522: rooftop_industry_triangle1
+    2300524: rooftop_industry_triangle2
+    2300526: rooftop_industry_triangle3
+    2300528: rooftop_isolation2
+    2300530: rooftop_isolation3
+    2300532: rooftop_isolation4
+    2300534: rooftop_isolation5
+    2300536: rooftop_isolation6
+    2300538: rooftop_isolation7
+    2300540: villemarie_cube_anim
+    2300542: villemarie_cube_collider
+    3300000: AC1
+    3300002: AC13
+    3300004: AC2
+    3300006: AC3
+    3300008: AC4
+    3300010: antenaflareA1
+    3300012: antenaflareB1
+    3300014: antenaflareB2
+    3300016: antenaflareC1
+    3300018: antenaflareC2
+    3300020: antenaflareD1
+    3300022: antenaflareD8
+    3300024: antenaflareD9
+    3300026: antenaflareE1
+    3300028: antenaflareE2
+    3300030: antenaflareE3
+    3300032: antenaflareE4
+    3300034: antenaflareE5
+    3300036: antenaflareE6
+    3300038: antenaflareE7
+    3300040: Antenna1
+    3300042: Antenna10
+    3300044: Antenna11
+    3300046: Antenna12
+    3300048: Antenna13
+    3300050: Antenna14
+    3300052: Antenna15
+    3300054: Antenna2
+    3300056: Antenna3
+    3300058: Antenna4
+    3300060: Antenna5
+    3300062: antenna_tech1
+    3300064: antenna_tech11
+    3300066: antenna_tech12
+    3300068: antenna_tech14
+    3300070: antenna_tech2
+    3300072: antenna_tech21
+    3300074: antenna_tech25
+    3300076: antenna_tech26
+    3300078: antenna_tech28
+    3300080: antenna_tech29
+    3300082: antenna_tech3
+    3300084: antenna_tech30
+    3300086: antenna_tech31
+    3300088: antenna_tech32
+    3300090: antenna_tech33
+    3300092: antenna_tech34
+    3300094: antenna_tech35
+    3300096: antenna_tech36
+    3300098: antenna_tech37
+    3300100: antenna_tech38
+    3300102: antenna_tech39
+    3300104: antenna_tech4
+    3300106: antenna_tech40
+    3300108: antenna_tech41
+    3300110: antenna_tech42
+    3300112: antenna_tech43
+    3300114: antenna_tech44
+    3300116: antenna_tech45
+    3300118: antenna_tech46
+    3300120: antenna_tech47
+    3300122: antenna_tech48
+    3300124: antenna_tech49
+    3300126: antenna_tech50
+    3300128: antenna_tech9
+    3300130: buiding5_win
+    3300132: building10_top
+    3300134: building10_win
+    3300136: building10_win1
+    3300138: building12_win
+    3300140: building13_rooftop
+    3300142: building13_win
+    3300144: building15_front
+    3300146: building16_rooftop
+    3300148: building16_win
+    3300150: building16_win1
+    3300152: building16_win2
+    3300154: building17_rooftop
+    3300156: building18_rooftop
+    3300158: building19_front
+    3300160: building19_top_temp1
+    3300162: building19_win
+    3300164: building1_win
+    3300166: building20_back_temp
+    3300168: building20_front
+    3300170: building20_win
+    3300172: building21_front
+    3300174: building22_balcony_rail
+    3300176: building22_front
+    3300178: building22_front_win
+    3300180: building23_front
+    3300182: building2_win
+    3300184: building3_front
+    3300186: building45_rooftop
+    3300188: building4_balcony
+    3300190: building4_doors
+    3300192: building4_win
+    3300194: building7_win
+    3300196: building7_win1
+    3300198: building9_win
+    3300200: building_1
+    3300202: building_10
+    3300204: building_11
+    3300206: building_12
+    3300208: building_13
+    3300210: building_14
+    3300212: building_16
+    3300214: building_2
+    3300216: building_27
+    3300218: building_3
+    3300220: building_38
+    3300222: building_4
+    3300224: building_49
+    3300226: building_5
+    3300228: building_7
+    3300230: building_8
+    3300232: building_9
+    3300234: building_city29_back_temp
+    3300236: building_city29_front
+    3300238: building_city30_back_temp
+    3300240: building_city30_front
+    3300242: building_city31_back_temp
+    3300244: building_city31_front
+    3300246: building_city32_back_temp
+    3300248: building_city32_front
+    3300250: building_city33_back_temp
+    3300252: building_city33_front
+    3300254: building_city34_back_temp
+    3300256: building_city34_front
+    3300258: building_city35_back_temp
+    3300260: building_city35_front
+    3300262: building_city36_back_temp
+    3300264: building_city36_front
+    3300266: building_city37_back_temp
+    3300268: building_city37_front
+    3300270: building_city39_front
+    3300272: building_city40_front
+    3300274: building_city42_front
+    3300276: building_city43_front
+    3300278: building_city44_front
+    3300280: building_city44_front1
+    3300282: building_city45_front
+    3300284: building_city48_front
+    3300286: building_city50_front
+    3300288: building_city51_front
+    3300290: building_city52_front
+    3300292: building_city53_front
+    3300294: building_city54_front
+    3300296: building_city56_back_temp
+    3300298: building_city56_front
+    3300300: building_city59_back_temp
+    3300302: building_city59_front
+    3300304: building_city60_front
+    3300306: building_city61_front
+    3300308: building_city62_front
+    3300310: building_city_24_back_temp
+    3300312: building_city_24_front
+    3300314: building_city_25_back_temp
+    3300316: building_city_25_front
+    3300318: building_city_26_back_temp
+    3300320: building_city_26_cylindre1
+    3300322: building_city_26_cylindre2
+    3300324: building_city_26_cylindre3
+    3300326: building_city_26_front
+    3300328: building_city_26_side
+    3300330: building_city_26_top
+    3300332: building_city_27_back_temp
+    3300334: building_city_28_back_temp
+    3300336: building_city_28_front
+    3300338: building_city_41
+    3300340: building_city_47_back_temp
+    3300342: building_city_47_front
+    3300344: building_city_63_back_temp
+    3300346: building_city_63_front
+    3300348: building_city_64_back_temp
+    3300350: building_city_64_front
+    3300352: building_city_65_back_temp
+    3300354: building_city_65_front
+    3300356: building_interior
+    3300358: buildingcity_55
+    3300360: bulding17
+    3300362: bulding18
+    3300364: bulding1_sides1
+    3300366: bulding1_win
+    3300368: conevent4
+    3300370: conevent5
+    3300372: conevent6
+    3300374: doorA1
+    3300376: doorB1
+    3300378: doorB2
+    3300380: doorB3
+    3300382: doorB4
+    3300384: doorB5
+    3300386: generator11
+    3300388: generator12
+    3300390: generator13
+    3300392: generator17
+    3300394: generator18
+    3300396: generator2
+    3300398: generator23
+    3300400: generator24
+    3300402: generator25
+    3300404: generator26
+    3300406: generator27
+    3300408: generator28
+    3300410: generator29
+    3300412: generator3
+    3300414: generator30
+    3300416: generator31
+    3300418: generator32
+    3300420: generator38
+    3300422: generator39
+    3300424: generator4
+    3300426: generator40
+    3300428: generator41
+    3300430: generator42
+    3300432: generator5
+    3300434: generator7
+    3300436: generator8
+    3300438: generator9
+    3300440: industrial_cheminy1
+    3300442: industrial_cheminy2
+    3300444: industrial_cheminy3
+    3300446: metalbox1
+    3300448: metalbox10
+    3300450: metalbox11
+    3300452: metalbox13
+    3300454: metalbox14
+    3300456: metalbox15
+    3300458: metalbox16
+    3300460: metalbox17
+    3300462: metalbox18
+    3300464: metalbox19
+    3300466: metalbox20
+    3300468: metalbox21
+    3300470: metalbox26
+    3300472: metalbox27
+    3300474: metalbox30
+    3300476: metalbox31
+    3300478: metalbox32
+    3300480: metalbox33
+    3300482: metalbox34
+    3300484: metalbox35
+    3300486: metalbox36
+    3300488: metalbox38
+    3300490: metalbox39
+    3300492: metalbox4
+    3300494: metalbox44
+    3300496: metalbox45
+    3300498: metalbox46
+    3300500: metalbox5
+    3300502: metalbox55
+    3300504: metalbox56
+    3300506: metalbox57
+    3300508: metalbox58
+    3300510: metalbox59
+    3300512: metalbox6
+    3300514: metalbox8
+    3300516: metalbox9
+    3300518: rooftop3_props
+    3300520: rooftop4_rops_united
+    3300522: rooftop_industry_triangle1
+    3300524: rooftop_industry_triangle2
+    3300526: rooftop_industry_triangle3
+    3300528: rooftop_isolation2
+    3300530: rooftop_isolation3
+    3300532: rooftop_isolation4
+    3300534: rooftop_isolation5
+    3300536: rooftop_isolation6
+    3300538: rooftop_isolation7
+    3300540: villemarie_cube_anim
+    3300542: villemarie_cube_collider
+    4300000: building_city_28_front
+    4300002: building_city_28_back_temp
+    4300004: building_city_27_back_temp
+    4300006: building_27
+    4300008: building_city36_front
+    4300010: building_city36_back_temp
+    4300012: antenna_tech30
+    4300014: antenna_tech9
+    4300016: antenna_tech25
+    4300018: antenna_tech26
+    4300020: villemarie_cube_anim
+    4300022: villemarie_cube_collider
+    4300024: building_city_65_front
+    4300026: building_city_65_back_temp
+    4300028: building_city37_back_temp
+    4300030: building_city37_front
+    4300032: building_city30_back_temp
+    4300034: building_city30_front
+    4300036: antenna_tech48
+    4300038: antenna_tech49
+    4300040: building_city52_front
+    4300042: antenna_tech37
+    4300044: antenna_tech38
+    4300046: building_city51_front
+    4300048: antenna_tech44
+    4300050: antenna_tech45
+    4300052: antenna_tech21
+    4300054: building_city32_back_temp
+    4300056: building_city32_front
+    4300058: building_city34_back_temp
+    4300060: building_city34_front
+    4300062: building_city53_front
+    4300064: antenna_tech46
+    4300066: antenna_tech47
+    4300068: building_city54_front
+    4300070: antenna_tech50
+    4300072: antenna_tech28
+    4300074: antenna_tech29
+    4300076: building_city40_front
+    4300078: building_city29_back_temp
+    4300080: building_city29_front
+    4300082: building_city_25_front
+    4300084: building_city_25_back_temp
+    4300086: building_city_24_front
+    4300088: building_city_24_back_temp
+    4300090: antenna_tech35
+    4300092: antenna_tech3
+    4300094: antenna_tech36
+    4300096: building_city48_front
+    4300098: building_city44_front1
+    4300100: building_city_41
+    4300102: building_49
+    4300104: generator42
+    4300106: doorB5
+    4300108: building_city50_front
+    4300110: antenna_tech31
+    4300112: antenna_tech32
+    4300114: antenna_tech11
+    4300116: antenna_tech12
+    4300118: building_city44_front
+    4300120: building_city_47_front
+    4300122: building_city_47_back_temp
+    4300124: building_city35_back_temp
+    4300126: building_city35_front
+    4300128: antenna_tech33
+    4300130: antenna_tech34
+    4300132: antenna_tech14
+    4300134: building_city_26_front
+    4300136: building_city_26_side
+    4300138: building_city_26_top
+    4300140: building_city_26_back_temp
+    4300142: building_city_26_cylindre1
+    4300144: building_city_26_cylindre2
+    4300146: building_city_26_cylindre3
+    4300148: building_city33_back_temp
+    4300150: building_city33_front
+    4300152: antenna_tech42
+    4300154: antenna_tech43
+    4300156: building_city56_back_temp
+    4300158: building_city56_front
+    4300160: building_city43_front
+    4300162: building_city31_back_temp
+    4300164: building_city31_front
+    4300166: antenna_tech39
+    4300168: antenna_tech40
+    4300170: antenna_tech41
+    4300172: building_city39_front
+    4300174: antenna_tech1
+    4300176: antenna_tech2
+    4300178: antenna_tech4
+    4300180: building_city45_front
+    4300182: building45_rooftop
+    4300184: building_city42_front
+    4300186: building_9
+    4300188: building9_win
+    4300190: building_8
+    4300192: metalbox35
+    4300194: metalbox36
+    4300196: metalbox38
+    4300198: building7_win
+    4300200: building_10
+    4300202: building10_win
+    4300204: building_7
+    4300206: generator41
+    4300208: metalbox57
+    4300210: doorB4
+    4300212: AC3
+    4300214: metalbox32
+    4300216: metalbox33
+    4300218: metalbox34
+    4300220: generator23
+    4300222: generator24
+    4300224: generator25
+    4300226: generator26
+    4300228: AC13
+    4300230: building7_win1
+    4300232: building_38
+    4300234: metalbox59
+    4300236: rooftop_isolation7
+    4300238: building_5
+    4300240: generator40
+    4300242: generator8
+    4300244: generator9
+    4300246: metalbox56
+    4300248: doorB3
+    4300250: generator17
+    4300252: metalbox30
+    4300254: metalbox31
+    4300256: generator18
+    4300258: buiding5_win
+    4300260: building21_front
+    4300262: rooftop_industry_triangle1
+    4300264: rooftop_industry_triangle2
+    4300266: rooftop_industry_triangle3
+    4300268: industrial_cheminy1
+    4300270: industrial_cheminy2
+    4300272: industrial_cheminy3
+    4300274: antenaflareE3
+    4300276: antenaflareE4
+    4300278: antenaflareE5
+    4300280: building20_front
+    4300282: building20_back_temp
+    4300284: Antenna15
+    4300286: Antenna10
+    4300288: Antenna13
+    4300290: building20_win
+    4300292: antenaflareE2
+    4300294: antenaflareD8
+    4300296: building19_front
+    4300298: building19_top_temp1
+    4300300: building19_win
+    4300302: building22_front
+    4300304: building22_balcony_rail
+    4300306: building23_front
+    4300308: building22_front_win
+    4300310: bulding1_sides1
+    4300312: building_interior
+    4300314: generator3
+    4300316: generator4
+    4300318: metalbox5
+    4300320: metalbox8
+    4300322: metalbox9
+    4300324: metalbox11
+    4300326: doorA1
+    4300328: doorB1
+    4300330: Antenna1
+    4300332: Antenna2
+    4300334: doorB2
+    4300336: metalbox13
+    4300338: metalbox14
+    4300340: metalbox15
+    4300342: metalbox16
+    4300344: generator11
+    4300346: generator12
+    4300348: generator13
+    4300350: building_1
+    4300352: bulding1_win
+    4300354: building1_win
+    4300356: antenaflareE1
+    4300358: antenaflareD1
+    4300360: antenaflareC1
+    4300362: antenaflareB1
+    4300364: antenaflareA1
+    4300366: antenaflareE6
+    4300368: generator2
+    4300370: generator39
+    4300372: generator5
+    4300374: generator7
+    4300376: metalbox55
+    4300378: AC1
+    4300380: AC2
+    4300382: conevent4
+    4300384: conevent5
+    4300386: AC4
+    4300388: metalbox17
+    4300390: metalbox18
+    4300392: metalbox6
+    4300394: conevent6
+    4300396: metalbox19
+    4300398: metalbox20
+    4300400: metalbox21
+    4300402: metalbox26
+    4300404: metalbox27
+    4300406: building_2
+    4300408: building2_win
+    4300410: building_3
+    4300412: rooftop3_props
+    4300414: building3_front
+    4300416: building_4
+    4300418: building4_balcony
+    4300420: building4_doors
+    4300422: Antenna14
+    4300424: Antenna3
+    4300426: Antenna4
+    4300428: rooftop4_rops_united
+    4300430: building4_win
+    4300432: antenaflareE7
+    4300434: antenaflareD9
+    4300436: antenaflareC2
+    4300438: antenaflareB2
+    4300440: rooftop_isolation2
+    4300442: rooftop_isolation3
+    4300444: rooftop_isolation4
+    4300446: metalbox4
+    4300448: metalbox44
+    4300450: building_14
+    4300452: building16_rooftop
+    4300454: building_16
+    4300456: building16_win2
+    4300458: building10_top
+    4300460: metalbox1
+    4300462: metalbox10
+    4300464: Antenna5
+    4300466: generator27
+    4300468: generator28
+    4300470: generator29
+    4300472: generator30
+    4300474: generator31
+    4300476: metalbox39
+    4300478: generator32
+    4300480: Antenna11
+    4300482: Antenna12
+    4300484: generator38
+    4300486: building_11
+    4300488: building10_win1
+    4300490: building_12
+    4300492: building12_win
+    4300494: building17_rooftop
+    4300496: bulding17
+    4300498: building16_win1
+    4300500: building_13
+    4300502: building13_rooftop
+    4300504: building13_win
+    4300506: building15_front
+    4300508: rooftop_isolation6
+    4300510: rooftop_isolation5
+    4300512: metalbox58
+    4300514: metalbox45
+    4300516: metalbox46
+    4300518: bulding18
+    4300520: building18_rooftop
+    4300522: building16_win
+    4300524: buildingcity_55
+    4300526: building_city62_front
+    4300528: building_city60_front
+    4300530: building_city_64_front
+    4300532: building_city_64_back_temp
+    4300534: building_city59_back_temp
+    4300536: building_city59_front
+    4300538: building_city61_front
+    4300540: building_city_63_front
+    4300542: building_city_63_back_temp
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

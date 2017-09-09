@@ -1,0 +1,863 @@
+fileFormatVersion: 2
+guid: bc2e8d2707c7f3c4298618b1486ba0f3
+labels:
+- photo-real
+- low-poly
+- city
+- cityscape
+- skyline
+- urban
+- realistic
+- modern
+- loft
+- contemporary
+- architecture
+- interior
+- exterior
+- miscellaneous
+- mobile
+- detail
+- furniture
+- room
+- modular
+- penthouse
+- household
+- wood
+- design
+- minimal
+- home
+- flat
+- roof
+- apartment
+- animated
+- ambience
+- atmosphere
+- day
+- night
+- luxurious
+- high-end
+- lightmaped
+- laundry
+- cupboards
+- detergent
+- washingmachine
+- towels
+- dressshirts
+- lounge
+- couch
+- sofa
+- living
+- spots
+- kitchen
+- bar
+- table
+- windows
+- doors
+- glass
+- chair
+- lights
+- sink
+- statue
+- curtain
+- blinds
+- books
+- tv
+- chimney
+- terrace
+- sundeck
+- balcony
+- patio
+- bench
+- plant
+- hallway
+- stairs
+- bathroom
+- toilet
+- gel
+- soap
+- shampoo
+- magazine
+- shower
+- lotion
+- shelves
+- bedroom
+- carpet
+- bed
+- cushion
+- tablelamp
+- dressshirt
+- pants
+- hanger
+- walk-in
+- closet
+- drawer
+- lighthouse
+- birds
+- curtains
+- sun
+- jetplane
+- horizon
+- rooftop
+- offices
+- Ambience
+- Animated
+- Apartment
+- Architecture
+- Atmosphere
+- Balcony
+- Bar
+- Bathroom
+- Bed
+- Birds
+- Blinds
+- Books
+- Carpet
+- Chair
+- Chimney
+- City
+- Cityscape
+- Closet
+- Contemporary
+- Couch
+- Cupboards
+- Curtain
+- Curtains
+- Cushion
+- Day
+- Design
+- Detail
+- Detergent
+- Doors
+- Drawer
+- Dressshirt
+- Dressshirts
+- Exterior
+- Flat
+- Furniture
+- Gel
+- Glass
+- Hallway
+- Hanger
+- High-end
+- Home
+- Horizon
+- Household
+- Interior
+- Jetplane
+- Kitchen
+- Laundry
+- Lighthouse
+- Lightmaped
+- Lights
+- Living
+- Loft
+- Lotion
+- Lounge
+- Low-poly
+- Luxurious
+- Magazine
+- Minimal
+- Miscellaneous
+- Mobile
+- Modern
+- Modular
+- Night
+- Offices
+- Pants
+- Patio
+- Penthouse
+- Photo-real
+- Plant
+- Realistic
+- Roof
+- Rooftop
+- Room
+- Shampoo
+- Shelves
+- Shower
+- Sink
+- Skyline
+- Soap
+- Sofa
+- Spots
+- Stairs
+- Statue
+- Sun
+- Sundeck
+- Table
+- Tablelamp
+- Terrace
+- Toilet
+- Towels
+- Tv
+- Urban
+- Walk-in
+- Washingmachine
+- Windows
+- Wood
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: card_box_01
+    100002: card_box_010
+    100004: card_box_011
+    100006: card_box_012
+    100008: card_box_013
+    100010: card_box_014
+    100012: card_box_015
+    100014: card_box_016
+    100016: card_box_017
+    100018: card_box_02
+    100020: card_box_03
+    100022: card_box_04
+    100024: card_box_05
+    100026: card_box_06
+    100028: card_box_07
+    100030: card_box_08
+    100032: card_box_09
+    100034: cardbox_01
+    100036: cardbox_02
+    100038: cardbox_03
+    100040: closets_01
+    100042: closets_02
+    100044: cotton_recepient
+    100046: counter_01
+    100048: counter_02
+    100050: cupboards_01
+    100052: curtain_01
+    100054: curtain_02
+    100056: curtain_03
+    100058: curtain_holder_01
+    100060: curtain_holder_02
+    100062: detergent_01
+    100064: detergent_02
+    100066: detergent_03
+    100068: detergent_04
+    100070: detergent_05
+    100072: door_01
+    100074: door_frame_01
+    100076: door_mat
+    100078: dress_shirt_01
+    100080: dress_shirt_01_high_res
+    100082: dress_shirt_02
+    100084: dress_shirt_02_high_res
+    100086: dress_shirt_03
+    100088: dress_shirt_03_high_res
+    100090: dress_shirt_04
+    100092: dress_shirt_05
+    100094: dress_shirt_06
+    100096: dress_shirt_07
+    100098: dress_shirt_08
+    100100: garment_01
+    100102: garment_010
+    100104: garment_011
+    100106: garment_012
+    100108: garment_013
+    100110: garment_014
+    100112: garment_015
+    100114: garment_016
+    100116: garment_017
+    100118: garment_01_high_res
+    100120: garment_02
+    100122: garment_02_high_res
+    100124: garment_03
+    100126: garment_03_high_res
+    100128: garment_04
+    100130: garment_04_high_res
+    100132: garment_05
+    100134: garment_05_high_res
+    100136: garment_06
+    100138: garment_06_high_res
+    100140: garment_07
+    100142: garment_07_high_res
+    100144: garment_08
+    100146: garment_08_high_res
+    100148: garment_09
+    100150: garment_09_high_res
+    100152: garment_10_high_res
+    100154: garment_11_high_res
+    100156: garment_12_high_res
+    100158: garment_13_high_res
+    100160: garment_14_high_res
+    100162: garment_15_high_res
+    100164: garment_16_high_res
+    100166: garment_17_high_res
+    100168: glowing_light
+    100170: hanger_01
+    100172: hanger_02
+    100174: hanger_03
+    100176: hanger_04
+    100178: hanger_05
+    100180: hanger_bar
+    100182: hanger_hider
+    100184: hanger_wooden_01
+    100186: iron
+    100188: laundry_basket_01
+    100190: laundry_basket_02
+    100192: laundry_basket_03
+    100194: light_panel_01
+    100196: light_panel_02
+    100198: light_spot_01
+    100200: light_spot_02
+    100202: light_spot_03
+    100204: light_spot_04
+    100206: light_spot_05
+    100208: light_spot_06
+    100210: light_spot_07
+    100212: light_spot_08
+    100214: light_spot_09
+    100216: light_switch_01
+    100218: rolling_drawers_01
+    100220: rolling_drawers_02
+    100222: rolling_drawers_03
+    100224: //RootNode
+    100226: room_laundry_01_A
+    100228: room_laundry_01_B
+    100230: room_laundry_01_B_high_res
+    100232: room_laundry_01_C
+    100234: towel_01
+    100236: walls_01
+    100238: washing_machine
+    100240: Room1_floor_reflective
+    100242: floor_reflective
+    100244: room_01_laundry_A
+    100246: room_01_laundry_B
+    100248: room_01_laundry_B_high_res
+    100250: room_01_laundry_C
+    100252: collider
+    400000: card_box_01
+    400002: card_box_010
+    400004: card_box_011
+    400006: card_box_012
+    400008: card_box_013
+    400010: card_box_014
+    400012: card_box_015
+    400014: card_box_016
+    400016: card_box_017
+    400018: card_box_02
+    400020: card_box_03
+    400022: card_box_04
+    400024: card_box_05
+    400026: card_box_06
+    400028: card_box_07
+    400030: card_box_08
+    400032: card_box_09
+    400034: cardbox_01
+    400036: cardbox_02
+    400038: cardbox_03
+    400040: closets_01
+    400042: closets_02
+    400044: cotton_recepient
+    400046: counter_01
+    400048: counter_02
+    400050: cupboards_01
+    400052: curtain_01
+    400054: curtain_02
+    400056: curtain_03
+    400058: curtain_holder_01
+    400060: curtain_holder_02
+    400062: detergent_01
+    400064: detergent_02
+    400066: detergent_03
+    400068: detergent_04
+    400070: detergent_05
+    400072: door_01
+    400074: door_frame_01
+    400076: door_mat
+    400078: dress_shirt_01
+    400080: dress_shirt_01_high_res
+    400082: dress_shirt_02
+    400084: dress_shirt_02_high_res
+    400086: dress_shirt_03
+    400088: dress_shirt_03_high_res
+    400090: dress_shirt_04
+    400092: dress_shirt_05
+    400094: dress_shirt_06
+    400096: dress_shirt_07
+    400098: dress_shirt_08
+    400100: garment_01
+    400102: garment_010
+    400104: garment_011
+    400106: garment_012
+    400108: garment_013
+    400110: garment_014
+    400112: garment_015
+    400114: garment_016
+    400116: garment_017
+    400118: garment_01_high_res
+    400120: garment_02
+    400122: garment_02_high_res
+    400124: garment_03
+    400126: garment_03_high_res
+    400128: garment_04
+    400130: garment_04_high_res
+    400132: garment_05
+    400134: garment_05_high_res
+    400136: garment_06
+    400138: garment_06_high_res
+    400140: garment_07
+    400142: garment_07_high_res
+    400144: garment_08
+    400146: garment_08_high_res
+    400148: garment_09
+    400150: garment_09_high_res
+    400152: garment_10_high_res
+    400154: garment_11_high_res
+    400156: garment_12_high_res
+    400158: garment_13_high_res
+    400160: garment_14_high_res
+    400162: garment_15_high_res
+    400164: garment_16_high_res
+    400166: garment_17_high_res
+    400168: glowing_light
+    400170: hanger_01
+    400172: hanger_02
+    400174: hanger_03
+    400176: hanger_04
+    400178: hanger_05
+    400180: hanger_bar
+    400182: hanger_hider
+    400184: hanger_wooden_01
+    400186: iron
+    400188: laundry_basket_01
+    400190: laundry_basket_02
+    400192: laundry_basket_03
+    400194: light_panel_01
+    400196: light_panel_02
+    400198: light_spot_01
+    400200: light_spot_02
+    400202: light_spot_03
+    400204: light_spot_04
+    400206: light_spot_05
+    400208: light_spot_06
+    400210: light_spot_07
+    400212: light_spot_08
+    400214: light_spot_09
+    400216: light_switch_01
+    400218: rolling_drawers_01
+    400220: rolling_drawers_02
+    400222: rolling_drawers_03
+    400224: //RootNode
+    400226: room_laundry_01_A
+    400228: room_laundry_01_B
+    400230: room_laundry_01_B_high_res
+    400232: room_laundry_01_C
+    400234: towel_01
+    400236: walls_01
+    400238: washing_machine
+    400240: Room1_floor_reflective
+    400242: floor_reflective
+    400244: room_01_laundry_A
+    400246: room_01_laundry_B
+    400248: room_01_laundry_B_high_res
+    400250: room_01_laundry_C
+    400252: collider
+    2300000: card_box_01
+    2300002: card_box_010
+    2300004: card_box_011
+    2300006: card_box_012
+    2300008: card_box_013
+    2300010: card_box_014
+    2300012: card_box_015
+    2300014: card_box_016
+    2300016: card_box_017
+    2300018: card_box_02
+    2300020: card_box_03
+    2300022: card_box_04
+    2300024: card_box_05
+    2300026: card_box_06
+    2300028: card_box_07
+    2300030: card_box_08
+    2300032: card_box_09
+    2300034: cardbox_01
+    2300036: cardbox_02
+    2300038: cardbox_03
+    2300040: closets_01
+    2300042: closets_02
+    2300044: cotton_recepient
+    2300046: counter_01
+    2300048: counter_02
+    2300050: cupboards_01
+    2300052: curtain_01
+    2300054: curtain_02
+    2300056: curtain_03
+    2300058: curtain_holder_01
+    2300060: curtain_holder_02
+    2300062: detergent_01
+    2300064: detergent_02
+    2300066: detergent_03
+    2300068: detergent_04
+    2300070: detergent_05
+    2300072: door_01
+    2300074: door_frame_01
+    2300076: door_mat
+    2300078: dress_shirt_01
+    2300080: dress_shirt_01_high_res
+    2300082: dress_shirt_02
+    2300084: dress_shirt_02_high_res
+    2300086: dress_shirt_03
+    2300088: dress_shirt_03_high_res
+    2300090: dress_shirt_04
+    2300092: dress_shirt_05
+    2300094: dress_shirt_06
+    2300096: dress_shirt_07
+    2300098: dress_shirt_08
+    2300100: garment_01
+    2300102: garment_010
+    2300104: garment_011
+    2300106: garment_012
+    2300108: garment_013
+    2300110: garment_014
+    2300112: garment_015
+    2300114: garment_016
+    2300116: garment_017
+    2300118: garment_01_high_res
+    2300120: garment_02
+    2300122: garment_02_high_res
+    2300124: garment_03
+    2300126: garment_03_high_res
+    2300128: garment_04
+    2300130: garment_04_high_res
+    2300132: garment_05
+    2300134: garment_05_high_res
+    2300136: garment_06
+    2300138: garment_06_high_res
+    2300140: garment_07
+    2300142: garment_07_high_res
+    2300144: garment_08
+    2300146: garment_08_high_res
+    2300148: garment_09
+    2300150: garment_09_high_res
+    2300152: garment_10_high_res
+    2300154: garment_11_high_res
+    2300156: garment_12_high_res
+    2300158: garment_13_high_res
+    2300160: garment_14_high_res
+    2300162: garment_15_high_res
+    2300164: garment_16_high_res
+    2300166: garment_17_high_res
+    2300168: glowing_light
+    2300170: hanger_01
+    2300172: hanger_02
+    2300174: hanger_03
+    2300176: hanger_04
+    2300178: hanger_05
+    2300180: hanger_bar
+    2300182: hanger_hider
+    2300184: hanger_wooden_01
+    2300186: iron
+    2300188: laundry_basket_01
+    2300190: laundry_basket_02
+    2300192: laundry_basket_03
+    2300194: light_panel_01
+    2300196: light_panel_02
+    2300198: light_spot_01
+    2300200: light_spot_02
+    2300202: light_spot_03
+    2300204: light_spot_04
+    2300206: light_spot_05
+    2300208: light_spot_06
+    2300210: light_spot_07
+    2300212: light_spot_08
+    2300214: light_spot_09
+    2300216: light_switch_01
+    2300218: rolling_drawers_01
+    2300220: rolling_drawers_02
+    2300222: rolling_drawers_03
+    2300224: towel_01
+    2300226: walls_01
+    2300228: washing_machine
+    2300230: Room1_floor_reflective
+    2300232: floor_reflective
+    2300234: collider
+    3300000: card_box_01
+    3300002: card_box_010
+    3300004: card_box_011
+    3300006: card_box_012
+    3300008: card_box_013
+    3300010: card_box_014
+    3300012: card_box_015
+    3300014: card_box_016
+    3300016: card_box_017
+    3300018: card_box_02
+    3300020: card_box_03
+    3300022: card_box_04
+    3300024: card_box_05
+    3300026: card_box_06
+    3300028: card_box_07
+    3300030: card_box_08
+    3300032: card_box_09
+    3300034: cardbox_01
+    3300036: cardbox_02
+    3300038: cardbox_03
+    3300040: closets_01
+    3300042: closets_02
+    3300044: cotton_recepient
+    3300046: counter_01
+    3300048: counter_02
+    3300050: cupboards_01
+    3300052: curtain_01
+    3300054: curtain_02
+    3300056: curtain_03
+    3300058: curtain_holder_01
+    3300060: curtain_holder_02
+    3300062: detergent_01
+    3300064: detergent_02
+    3300066: detergent_03
+    3300068: detergent_04
+    3300070: detergent_05
+    3300072: door_01
+    3300074: door_frame_01
+    3300076: door_mat
+    3300078: dress_shirt_01
+    3300080: dress_shirt_01_high_res
+    3300082: dress_shirt_02
+    3300084: dress_shirt_02_high_res
+    3300086: dress_shirt_03
+    3300088: dress_shirt_03_high_res
+    3300090: dress_shirt_04
+    3300092: dress_shirt_05
+    3300094: dress_shirt_06
+    3300096: dress_shirt_07
+    3300098: dress_shirt_08
+    3300100: garment_01
+    3300102: garment_010
+    3300104: garment_011
+    3300106: garment_012
+    3300108: garment_013
+    3300110: garment_014
+    3300112: garment_015
+    3300114: garment_016
+    3300116: garment_017
+    3300118: garment_01_high_res
+    3300120: garment_02
+    3300122: garment_02_high_res
+    3300124: garment_03
+    3300126: garment_03_high_res
+    3300128: garment_04
+    3300130: garment_04_high_res
+    3300132: garment_05
+    3300134: garment_05_high_res
+    3300136: garment_06
+    3300138: garment_06_high_res
+    3300140: garment_07
+    3300142: garment_07_high_res
+    3300144: garment_08
+    3300146: garment_08_high_res
+    3300148: garment_09
+    3300150: garment_09_high_res
+    3300152: garment_10_high_res
+    3300154: garment_11_high_res
+    3300156: garment_12_high_res
+    3300158: garment_13_high_res
+    3300160: garment_14_high_res
+    3300162: garment_15_high_res
+    3300164: garment_16_high_res
+    3300166: garment_17_high_res
+    3300168: glowing_light
+    3300170: hanger_01
+    3300172: hanger_02
+    3300174: hanger_03
+    3300176: hanger_04
+    3300178: hanger_05
+    3300180: hanger_bar
+    3300182: hanger_hider
+    3300184: hanger_wooden_01
+    3300186: iron
+    3300188: laundry_basket_01
+    3300190: laundry_basket_02
+    3300192: laundry_basket_03
+    3300194: light_panel_01
+    3300196: light_panel_02
+    3300198: light_spot_01
+    3300200: light_spot_02
+    3300202: light_spot_03
+    3300204: light_spot_04
+    3300206: light_spot_05
+    3300208: light_spot_06
+    3300210: light_spot_07
+    3300212: light_spot_08
+    3300214: light_spot_09
+    3300216: light_switch_01
+    3300218: rolling_drawers_01
+    3300220: rolling_drawers_02
+    3300222: rolling_drawers_03
+    3300224: towel_01
+    3300226: walls_01
+    3300228: washing_machine
+    3300230: Room1_floor_reflective
+    3300232: floor_reflective
+    3300234: collider
+    4300000: light_panel_01
+    4300002: light_panel_02
+    4300004: light_spot_01
+    4300006: light_spot_02
+    4300008: light_spot_03
+    4300010: light_spot_04
+    4300012: light_spot_05
+    4300014: light_spot_06
+    4300016: light_spot_07
+    4300018: light_spot_08
+    4300020: light_spot_09
+    4300022: curtain_01
+    4300024: curtain_holder_01
+    4300026: curtain_holder_02
+    4300028: curtain_02
+    4300030: curtain_03
+    4300032: walls_01
+    4300034: garment_01
+    4300036: garment_02
+    4300038: garment_03
+    4300040: garment_04
+    4300042: garment_05
+    4300044: garment_06
+    4300046: garment_07
+    4300048: garment_08
+    4300050: garment_09
+    4300052: garment_010
+    4300054: garment_011
+    4300056: garment_012
+    4300058: garment_013
+    4300060: garment_014
+    4300062: garment_015
+    4300064: garment_016
+    4300066: garment_017
+    4300068: dress_shirt_03
+    4300070: dress_shirt_02
+    4300072: dress_shirt_01
+    4300074: hanger_04
+    4300076: hanger_03
+    4300078: hanger_02
+    4300080: hanger_01
+    4300082: hanger_05
+    4300084: dress_shirt_04
+    4300086: dress_shirt_07
+    4300088: dress_shirt_06
+    4300090: dress_shirt_05
+    4300092: dress_shirt_08
+    4300094: garment_01_high_res
+    4300096: garment_02_high_res
+    4300098: garment_03_high_res
+    4300100: garment_04_high_res
+    4300102: garment_05_high_res
+    4300104: garment_06_high_res
+    4300106: garment_07_high_res
+    4300108: garment_08_high_res
+    4300110: garment_09_high_res
+    4300112: garment_10_high_res
+    4300114: garment_11_high_res
+    4300116: garment_12_high_res
+    4300118: garment_13_high_res
+    4300120: garment_14_high_res
+    4300122: garment_15_high_res
+    4300124: garment_16_high_res
+    4300126: garment_17_high_res
+    4300128: dress_shirt_01_high_res
+    4300130: dress_shirt_02_high_res
+    4300132: dress_shirt_03_high_res
+    4300134: towel_01
+    4300136: cupboards_01
+    4300138: door_frame_01
+    4300140: washing_machine
+    4300142: counter_01
+    4300144: light_switch_01
+    4300146: closets_01
+    4300148: hanger_hider
+    4300150: hanger_bar
+    4300152: closets_02
+    4300154: rolling_drawers_02
+    4300156: rolling_drawers_03
+    4300158: rolling_drawers_01
+    4300160: hanger_wooden_01
+    4300162: card_box_01
+    4300164: card_box_02
+    4300166: card_box_03
+    4300168: card_box_04
+    4300170: card_box_05
+    4300172: card_box_06
+    4300174: card_box_07
+    4300176: card_box_08
+    4300178: card_box_09
+    4300180: card_box_010
+    4300182: card_box_011
+    4300184: card_box_012
+    4300186: card_box_013
+    4300188: card_box_014
+    4300190: card_box_015
+    4300192: card_box_016
+    4300194: card_box_017
+    4300196: detergent_01
+    4300198: cotton_recepient
+    4300200: detergent_04
+    4300202: detergent_05
+    4300204: detergent_02
+    4300206: detergent_03
+    4300208: iron
+    4300210: door_01
+    4300212: cardbox_01
+    4300214: cardbox_02
+    4300216: cardbox_03
+    4300218: door_mat
+    4300220: counter_02
+    4300222: laundry_basket_01
+    4300224: laundry_basket_02
+    4300226: laundry_basket_03
+    4300228: glowing_light
+    4300230: Room1_floor_reflective
+    4300232: floor_reflective
+    4300234: collider
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
